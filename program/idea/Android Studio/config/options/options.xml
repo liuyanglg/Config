@@ -1,0 +1,41 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="2" />
+    <property name="AndroidInitConfigurator.V4" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V2" value="true" />
+    <property name="android-component-compatibility-check" value="1491491969001" />
+    <property name="SAVED_COMPANY_DOMAIN" value="galaxy.com" />
+    <property name="MobileminApi" value="15" />
+    <property name="lastTip" value="2" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="FileTemplates.CurrentTab" value="Templates" />
+    <property name="FileTemplates.SelectedTemplate" value="Html" />
+    <property name="测试" value="Green" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="studio.activity.count" value="0" />
+    <property name="android.resource_dialog_splitter" value="0.8" />
+    <property name="file.chooser.recent.files" value="D:/docu/gradle/.gradle&#10;D:/prog/android/sdk&#10;D:/prog/development-kit/jdk/JDK 1.8&#10;D:/docu/android-projects&#10;D:/下载&#10;D:/文档/MyFiles/Lessons/移动应用开发/Fplayer&#10;D:/files/LaVideo&#10;D:/docu/android-projects/FPlayer&#10;D:/docu/AndroidStudioProjects/FPlayer/app/src/main/res/mipmap-xxhdpi&#10;D:/Docu/AndroidStudioProjects/FPlayer&#10;D:/Docu/AndroidStudioProjects/VideoDemo&#10;D:/File/Vitamio/VitamioBundle-5.0.1/VitamioBundle-5.0.1/vitamio&#10;D:/Docu/AndroidStudioProjects/VideoPlayer&#10;D:/Docu/AndroidStudioProjects/FPlayer/app/src/main/res/mipmap-xhdpi&#10;D:/Docu/AndroidStudioProjects/MyPlayer&#10;D:/Docu/AndroidStudioProjects/vitamio&#10;D:/File/VideoDemo&#10;D:/File/veido/MyMoviePlay&#10;D:/File/MyPlayer/OPlayer-master&#10;D:/File/OPlayer&#10;D:/File/other/OPlayer-master&#10;D:/File/OPlayer/OPlayer-master&#10;D:/File/OPlayer-master&#10;D:/File/VitamioBundle-5.0.1/VitamioBundle-5.0.1/vitamio&#10;D:/File/VitamioBundle-5.0.1/VitamioBundle-5.0.1/vitamio-sample&#10;D:/下载/VitamioBundle-5.0.1/__MACOSX/VitamioBundle-5.0.1/vitamio-sample&#10;D:/Docu/AndroidStudioProjects/IdeaMap/sample&#10;D:/File/VitamioBundle-master&#10;D:/下载/VitamioBundle-master/vitamio-sample&#10;D:/File/VitamioBundle-3.0/VitamioDemo-master" />
+    <property name="AndroidEnableDdms" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="com.google.gct.enable.cloud.testing" value="true" />
+    <property name="newly.installed.api.level" value="16" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="ANDROID_THEME_HISTORY" value="NoAction&#10;NoActionBar" />
+    <property name="last.imported.location" value="D:/File/VideoDemo" />
+    <property name="selected.color.option.type" value="STATIC_FINAL_FIELD_ATTRIBUTES" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="last.used.gradle.home" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10" />
+    <property name="LOG_FILTER_HISTORY" value="OpenVideo&#10;ok&#10;open&#10;fail&#10;SetText" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="create.project.preferred.importer" value="Gradle" />
+    <property name="LOG_FILTER_TAG_HISTORY" value="click" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+  </component>
+</application>

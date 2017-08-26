@@ -1,0 +1,54 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:\docu\clion\book\4-01" />
+        <option value="D:\docu\clion\MyFirst" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="D:\docu\clion\book\4-01" />
+      </list>
+    </option>
+    <option name="lastPath" value="D:\docu\clion\book\4-01" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="D:\docu\clion\MyFirst">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-145.971" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="D:\prog\ide\intelij-idea\CLion 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1464532831154" />
+              <option name="buildTimestamp" value="1462204800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\clion\book\4-01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-171.3780.121" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="D:\prog\ides\JetBrains\CLion\bin" />
+              <option name="projectOpenTimestamp" value="1491705823537" />
+              <option name="buildTimestamp" value="1490625698218" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\clion\test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-145.971" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="D:\prog\ide\intelij-idea\CLion 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1463571055545" />
+              <option name="buildTimestamp" value="1462204800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="D:\docu\clion" />
+  </component>
+</application>

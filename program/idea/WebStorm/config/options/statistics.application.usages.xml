@@ -1,0 +1,545 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JSDebugConfig">
+      <project id="UseJsp" values="browser-default.preferredBrowser-null.no_mappings,browser-default.preferredBrowser-null.no_mappings,browser-default.preferredBrowser-null.no_mappings,browser-default.preferredBrowser-null.no_mappings" collectionTime="1461592046580" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="chapter08" values="ECMAScript 5.1" collectionTime="1468297143305" />
+      <project id="test" values="ECMAScript 5.1" collectionTime="1464935707767" />
+      <project id="MyBook" values="ECMAScript 5.1" collectionTime="1468118692298" />
+      <project id="structs2Demo01" values="ECMAScript 5.1" collectionTime="1467189721777" />
+      <project id="chapter04" values="ECMAScript 5.1" collectionTime="1467203355211" />
+      <project id="springDemo03" values="ECMAScript 5.1" collectionTime="1464667814275" />
+      <project id="chapter06-one-one" values="ECMAScript 5.1" collectionTime="1467702862635" />
+      <project id="springDemo01" values="ECMAScript 5.1" collectionTime="1464684313571" />
+      <project id="BikeSystem01" values="ECMAScript 5.1" collectionTime="1464356783331" />
+      <project id="chapter06" values="ECMAScript 5.1" collectionTime="1467615257188" />
+      <project id="PBikeVis system" values="ECMAScript 5.1" collectionTime="1462366198773" />
+      <project id="mapping02" values="ECMAScript 5.1" collectionTime="1467558752496" />
+      <project id="mapping01" values="ECMAScript 5.1" collectionTime="1467615016806" />
+      <project id="HQLDemo" values="ECMAScript 5.1" collectionTime="1467262223249" />
+      <project id="Test" values="ECMAScript 5.1" collectionTime="1464356257890" />
+      <project id="test_ssh" values="ECMAScript 5.1" collectionTime="1464797921478" />
+      <project id="threadLoacl" values="ECMAScript 5.1" collectionTime="1468297156998" />
+      <project id="zhibing_springmvc" values="ECMAScript 5.1" collectionTime="1464884194036" />
+      <project id="chapter05" values="ECMAScript 5.1" collectionTime="1467561649029" />
+      <project id="UseJsp" values="ECMAScript 5.1" collectionTime="1461592046533" />
+      <project id="SpringDemo01" values="ECMAScript 5.1" collectionTime="1463313900883" />
+      <project id="StepInServlet" values="ECMAScript 5.1" collectionTime="1461228511232" />
+      <project id="SpringMvcDemo06" values="ECMAScript 5.1" collectionTime="1468765776084" />
+      <project id="SpringMvcDemo05" values="ECMAScript 5.1" collectionTime="1465090740477" />
+      <project id="SpringMvcDemo04" values="ECMAScript 5.1" collectionTime="1467032595131" />
+      <project id="SpringMvcDemo03" values="ECMAScript 5.1" collectionTime="1465123347670" />
+      <project id="SpringMvcDemo02" values="ECMAScript 5.1" collectionTime="1464935390516" />
+      <project id="SpringDemo02" values="ECMAScript 5.1" collectionTime="1464666789496" />
+      <project id="SessionServlet" values="ECMAScript 5.1" collectionTime="1461239611071" />
+      <project id="untitled" values="ECMAScript 5.1" collectionTime="1468308414126" />
+      <project id="spring-01" values="ECMAScript 5.1" collectionTime="1470576878848" />
+      <project id="Struts2Demo01" values="ECMAScript 5.1" collectionTime="1463394140648" />
+      <project id="BikeInfoShowByGalaxy" values="ECMAScript 5.1" collectionTime="1465175452188" />
+      <project id="springmvcdemo" values="ECMAScript 5.1" collectionTime="1462279381243" />
+      <project id="ssh01" values="ECMAScript 5.1" collectionTime="1468765079195" />
+      <project id="annotate-relationship" values="ECMAScript 5.1" collectionTime="1467992585340" />
+      <project id="reflect" values="ECMAScript 5.1" collectionTime="1468844954164" />
+      <project id="acm" values="ECMAScript 5.1" collectionTime="1479882725422" />
+      <project id="ExamServlet" values="ECMAScript 5.1" collectionTime="1461224015003" />
+      <project id="demo01" values="ECMAScript 5.1" collectionTime="1464568585002" />
+      <project id="threadLocal" values="ECMAScript 5.1" collectionTime="1468301594987" />
+      <project id="ShoppingDemo" values="ECMAScript 5.1" collectionTime="1461660295513" />
+      <project id="book02" values="ECMAScript 5.1" collectionTime="1469859933190" />
+      <project id="SpringMVC" values="ECMAScript 5.1" collectionTime="1464842354166" />
+      <project id="SpringMvcDemo01" values="ECMAScript 5.1" collectionTime="1464797414951" />
+      <project id="annotate" values="ECMAScript 5.1" collectionTime="1467720161261" />
+      <project id="ServletDemo04" values="ECMAScript 5.1" collectionTime="1461200871852" />
+    </group>
+    <group name="module type">
+      <project id="chapter08" values="JAVA_MODULE" collectionTime="1468297142993" />
+      <project id="test" values="JAVA_MODULE" collectionTime="1464935707533" />
+      <project id="MyBook" values="JAVA_MODULE" collectionTime="1468118692048" />
+      <project id="structs2Demo01" values="JAVA_MODULE" collectionTime="1467189721465" />
+      <project id="chapter04" values="JAVA_MODULE" collectionTime="1467203355165" />
+      <project id="springDemo03" values="JAVA_MODULE" collectionTime="1464667814180" />
+      <project id="chapter06-one-one" values="JAVA_MODULE" collectionTime="1467702862322" />
+      <project id="springDemo01" values="JAVA_MODULE" collectionTime="1464684312892" />
+      <project id="BikeSystem01" values="JAVA_MODULE" collectionTime="1464356783207" />
+      <project id="chapter06" values="JAVA_MODULE" collectionTime="1467615257117" />
+      <project id="PBikeVis system" values="JAVA_MODULE" collectionTime="1462366198217" />
+      <project id="mapping02" values="JAVA_MODULE" collectionTime="1467558752434" />
+      <project id="mapping01" values="JAVA_MODULE" collectionTime="1467615016431" />
+      <project id="HQLDemo" values="JAVA_MODULE" collectionTime="1467262222984" />
+      <project id="Test" values="JAVA_MODULE" collectionTime="1464356257099" />
+      <project id="test_ssh" values="JAVA_MODULE" collectionTime="1464797921275" />
+      <project id="threadLoacl" values="JAVA_MODULE" collectionTime="1468297156982" />
+      <project id="zhibing_springmvc" values="JAVA_MODULE" collectionTime="1464884193725" />
+      <project id="chapter05" values="JAVA_MODULE" collectionTime="1467561649001" />
+      <project id="UseJsp" values="JAVA_MODULE" collectionTime="1461592045908" />
+      <project id="SpringDemo01" values="JAVA_MODULE" collectionTime="1463313900727" />
+      <project id="StepInServlet" values="JAVA_MODULE" collectionTime="1461228511185" />
+      <project id="SpringMvcDemo06" values="JAVA_MODULE" collectionTime="1468765776037" />
+      <project id="SpringMvcDemo05" values="JAVA_MODULE" collectionTime="1465090740274" />
+      <project id="SpringMvcDemo04" values="JAVA_MODULE" collectionTime="1467032594881" />
+      <project id="SpringMvcDemo03" values="JAVA_MODULE" collectionTime="1465123347524" />
+      <project id="SpringMvcDemo02" values="JAVA_MODULE" collectionTime="1464935389907" />
+      <project id="SpringDemo02" values="JAVA_MODULE" collectionTime="1464666789281" />
+      <project id="SessionServlet" values="JAVA_MODULE" collectionTime="1461239610865" />
+      <project id="untitled" values="JAVA_MODULE" collectionTime="1468308414093" />
+      <project id="spring-01" values="JAVA_MODULE" collectionTime="1470576878516" />
+      <project id="Struts2Demo01" values="JAVA_MODULE" collectionTime="1463394139945" />
+      <project id="BikeInfoShowByGalaxy" values="JAVA_MODULE" collectionTime="1465175452021" />
+      <project id="springmvcdemo" values="JAVA_MODULE" collectionTime="1462279380513" />
+      <project id="ssh01" values="JAVA_MODULE" collectionTime="1468765078939" />
+      <project id="annotate-relationship" values="JAVA_MODULE" collectionTime="1467992585012" />
+      <project id="reflect" values="JAVA_MODULE" collectionTime="1468844953899" />
+      <project id="acm" values="JAVA_MODULE" collectionTime="1479882724956" />
+      <project id="ExamServlet" values="JAVA_MODULE" collectionTime="1461224014753" />
+      <project id="demo01" values="JAVA_MODULE" collectionTime="1464568584814" />
+      <project id="threadLocal" values="JAVA_MODULE" collectionTime="1468301594952" />
+      <project id="ShoppingDemo" values="JAVA_MODULE" collectionTime="1461660294774" />
+      <project id="book02" values="JAVA_MODULE" collectionTime="1469859933002" />
+      <project id="SpringMVC" values="JAVA_MODULE" collectionTime="1464842353549" />
+      <project id="SpringMvcDemo01" values="JAVA_MODULE" collectionTime="1464797414310" />
+      <project id="annotate" values="JAVA_MODULE" collectionTime="1467720161011" />
+      <project id="ServletDemo04" values="JAVA_MODULE" collectionTime="1461200871602" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="SpringMvcDemo05" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1465090740274" />
+      <project id="chapter06" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1467615257117" />
+      <project id="structs2Demo01" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1467189721465" />
+      <project id="chapter04" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1467203355165" />
+      <project id="springDemo03" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1464667814181" />
+      <project id="chapter06-one-one" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1467702862322" />
+      <project id="springDemo01" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1464684312893" />
+      <project id="BikeSystem01" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1464356783207" />
+      <project id="chapter05" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1467561649001" />
+      <project id="PBikeVis system" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1462366198219" />
+      <project id="mapping02" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1467558752434" />
+      <project id="mapping01" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1467615016431" />
+      <project id="HQLDemo" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1467262222984" />
+      <project id="Test" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1464356257101" />
+      <project id="test_ssh" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1464797921275" />
+      <project id="threadLocal" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1468301594952" />
+      <project id="UseJsp" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1461592045908" />
+      <project id="SpringMVC" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1464842353551" />
+      <project id="StepInServlet" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1461228511185" />
+      <project id="SpringMvcDemo06" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1468765776037" />
+      <project id="SpringDemo02" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1464666789281" />
+      <project id="SpringMvcDemo04" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1467032594881" />
+      <project id="SpringMvcDemo03" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1465123347524" />
+      <project id="SpringMvcDemo01" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1464797414326" />
+      <project id="SessionServlet" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1461239610865" />
+      <project id="Struts2Demo01" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1463394139945" />
+      <project id="BikeInfoShowByGalaxy" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1465175452021" />
+      <project id="ssh01" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1468765078940" />
+      <project id="annotate-relationship" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1467992585012" />
+      <project id="ExamServlet" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1461224014753" />
+      <project id="demo01" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1464568584814" />
+      <project id="ShoppingDemo" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1461660294777" />
+      <project id="annotate" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1467720161011" />
+      <project id="ServletDemo04" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1461200871602" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="mapping02" values="JUnit" collectionTime="1467558752434" />
+      <project id="mapping01" values="JUnit" collectionTime="1467615016431" />
+      <project id="BikeSystem01" values="Application" collectionTime="1464356783207" />
+      <project id="chapter06" values="JUnit,Application" collectionTime="1467615257117" />
+      <project id="MyBook" values="Application" collectionTime="1468118692048" />
+      <project id="HQLDemo" values="Application,JUnit" collectionTime="1467262222984" />
+      <project id="demo01" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1464568584814" />
+      <project id="chapter08" values="Application" collectionTime="1468297142993" />
+      <project id="reflect" values="Application" collectionTime="1468844953899" />
+      <project id="BikeInfoShowByGalaxy" values="Application" collectionTime="1465175452021" />
+      <project id="ExamServlet" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1461224014753" />
+      <project id="UseJsp" values="JavascriptDebugType,#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1461592045908" />
+      <project id="spring-01" values="Application" collectionTime="1470576878532" />
+      <project id="Struts2Demo01" values="JUnit" collectionTime="1463394139961" />
+      <project id="book02" values="Application" collectionTime="1469859933002" />
+      <project id="chapter06-one-one" values="JUnit,Application" collectionTime="1467702862322" />
+      <project id="ShoppingDemo" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local,Application" collectionTime="1461660294777" />
+      <project id="acm" values="Application" collectionTime="1479882724957" />
+      <project id="SpringMvcDemo04" values="Application" collectionTime="1467032594881" />
+      <project id="ssh01" values="JUnit" collectionTime="1468765078940" />
+      <project id="annotate" values="JUnit" collectionTime="1467720161011" />
+      <project id="threadLocal" values="Application" collectionTime="1468301594952" />
+      <project id="annotate-relationship" values="JUnit" collectionTime="1467992585012" />
+      <project id="springmvcdemo" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1462279380515" />
+      <project id="chapter05" values="Application" collectionTime="1467561649001" />
+    </group>
+    <group name="file-type">
+      <project id="chapter08" values="JAVA,IDEA_MODULE,XML" collectionTime="1468297143055" />
+      <project id="test" values="ARCHIVE,IDEA_MODULE,XML,JSP" collectionTime="1464935707736" />
+      <project id="MyBook" values="JAVA,IDEA_MODULE" collectionTime="1468118692110" />
+      <project id="structs2Demo01" values="XML,IDEA_MODULE,JAVA,JSP,ARCHIVE" collectionTime="1467189721559" />
+      <project id="chapter04" values="JAVA,IDEA_MODULE,XML,JSP" collectionTime="1467203355211" />
+      <project id="springDemo03" values="JSP,ARCHIVE,XML,IDEA_MODULE,JAVA" collectionTime="1464667814271" />
+      <project id="chapter06-one-one" values="IDEA_MODULE,JAVA,XML,JSP" collectionTime="1467702862400" />
+      <project id="springDemo01" values="XML,IDEA_MODULE,JSP,JAVA" collectionTime="1464684313152" />
+      <project id="book02" values="JAVA,IDEA_MODULE,Manifest,PLAIN_TEXT,C++" collectionTime="1469859933065" />
+      <project id="chapter06" values="IDEA_MODULE,JAVA,JSP,XML" collectionTime="1467615257186" />
+      <project id="PBikeVis system" values="Manifest,XML,IDEA_MODULE,JSP,PLAIN_TEXT,ARCHIVE,JAVA,JavaScript,Eclipse" collectionTime="1462366198444" />
+      <project id="mapping02" values="JAVA,IDEA_MODULE,SQL,XML,JSP" collectionTime="1467558752496" />
+      <project id="mapping01" values="SQL,JSP,JAVA,XML,IDEA_MODULE" collectionTime="1467615016603" />
+      <project id="HQLDemo" values="JAVA,XML,ARCHIVE,IDEA_MODULE,JSP" collectionTime="1467262223046" />
+      <project id="Test" values="XML,ARCHIVE,JSP,IDEA_MODULE" collectionTime="1464356257356" />
+      <project id="test_ssh" values="Eclipse,ARCHIVE,Manifest,IDEA_MODULE,JAVA,JSP,JavaScript,XML,PLAIN_TEXT" collectionTime="1464797921463" />
+      <project id="threadLocal" values="JAVA,IDEA_MODULE" collectionTime="1468301594985" />
+      <project id="zhibing_springmvc" values="Images,Manifest,IDEA_MODULE,CSS,JSP,HTML,JSON,PLAIN_TEXT,JAVA,XML,Properties,Eclipse,JavaScript" collectionTime="1464884193834" />
+      <project id="chapter05" values="IDEA_MODULE,JSP,XML,JAVA" collectionTime="1467561649026" />
+      <project id="UseJsp" values="IDEA_MODULE,JAVA,ARCHIVE,XML,JSP" collectionTime="1461592046174" />
+      <project id="SpringDemo01" values="IDEA_MODULE,ARCHIVE" collectionTime="1463313900852" />
+      <project id="StepInServlet" values="XML,JAVA,IDEA_MODULE,HTML,JSP,ARCHIVE" collectionTime="1461228511232" />
+      <project id="SpringMvcDemo06" values="IDEA_MODULE,XML,JavaScript,JSP,JAVA" collectionTime="1468765776084" />
+      <project id="SpringMvcDemo05" values="JAVA,XML,JSP,IDEA_MODULE,JavaScript" collectionTime="1465090740462" />
+      <project id="SpringMvcDemo04" values="Properties,JSP,JavaScript,XML,JAVA,IDEA_MODULE" collectionTime="1467032594944" />
+      <project id="SpringMvcDemo03" values="IDEA_MODULE,JavaScript,XML,JAVA,JSP" collectionTime="1465123347662" />
+      <project id="SpringMvcDemo02" values="XML,IDEA_MODULE,JSP,ARCHIVE" collectionTime="1464935390079" />
+      <project id="SpringMvcDemo01" values="Images,XML,ARCHIVE,CSS,JAVA,JavaScript,IDEA_MODULE,JSP" collectionTime="1464797414498" />
+      <project id="SessionServlet" values="JSP,IDEA_MODULE,JAVA,XML" collectionTime="1461239610924" />
+      <project id="SpringDemo02" values="IDEA_MODULE,JAVA,ARCHIVE,JSP,XML" collectionTime="1464666789487" />
+      <project id="BikeSystem01" values="JSP,ARCHIVE,CSS,XML,JAVA,JavaScript,Images,IDEA_MODULE" collectionTime="1464356783317" />
+      <project id="untitled" values="JSP,XML,IDEA_MODULE,ARCHIVE" collectionTime="1468308414124" />
+      <project id="spring-01" values="IDEA_MODULE,XML,JAVA" collectionTime="1470576878637" />
+      <project id="Struts2Demo01" values="IDEA_MODULE,CSS,XML,JAVA,Images,ARCHIVE,JSP,JavaScript" collectionTime="1463394140195" />
+      <project id="BikeInfoShowByGalaxy" values="IDEA_MODULE,JSP,JavaScript,XML,Images,ARCHIVE,CSS,JAVA" collectionTime="1465175452181" />
+      <project id="springmvcdemo" values="IDEA_MODULE,SQL,PLAIN_TEXT,JAVA,JSP,XML" collectionTime="1462279380799" />
+      <project id="ssh01" values="XML,JSP,JAVA,IDEA_MODULE" collectionTime="1468765079000" />
+      <project id="annotate-relationship" values="IDEA_MODULE,JAVA,XML,JSP" collectionTime="1467992585106" />
+      <project id="reflect" values="JAVA,IDEA_MODULE" collectionTime="1468844954008" />
+      <project id="acm" values="JAVA,IDEA_MODULE" collectionTime="1479882725166" />
+      <project id="ExamServlet" values="JAVA,XML,IDEA_MODULE,JSP" collectionTime="1461224014847" />
+      <project id="demo01" values="JSP,IDEA_MODULE,JAVA,XML" collectionTime="1464568584986" />
+      <project id="ShoppingDemo" values="ARCHIVE,JSP,XML,HTML,JavaScript,CSS,JAVA,PLAIN_TEXT,IDEA_MODULE,Images" collectionTime="1461660294977" />
+      <project id="SpringMVC" values="JSP,IDEA_MODULE,Properties,JAVA,XML" collectionTime="1464842353765" />
+      <project id="annotate" values="JAVA,XML,IDEA_MODULE,JSP" collectionTime="1467720161089" />
+      <project id="ServletDemo04" values="Images,JSP,ARCHIVE,JAVA,CSS,XML,IDEA_MODULE" collectionTime="1461200871665" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="ssh01" values="MySQL/5.7.12-log" collectionTime="1468765079196" />
+      <project id="springmvcdemo" values="MySQL/5.7.12-log" collectionTime="1462279381240" />
+    </group>
+    <group name="libraries">
+      <project id="chapter08" values="spring" collectionTime="1468297143071" />
+      <project id="test" values="TransactionJavaee,struts2,spring-mvc,hibernate,spring" collectionTime="1464935707767" />
+      <project id="chapter06" values="hibernate,struts2,TransactionJavaee" collectionTime="1467615257187" />
+      <project id="chapter05" values="TransactionJavaee,hibernate,struts2" collectionTime="1467561649027" />
+      <project id="chapter04" values="struts2" collectionTime="1467203355211" />
+      <project id="springDemo03" values="spring-mvc,spring" collectionTime="1464667814272" />
+      <project id="chapter06-one-one" values="TransactionJavaee,struts2,hibernate" collectionTime="1467702862431" />
+      <project id="springDemo01" values="spring,spring-mvc,TransactionJavaee,spring-data-jpa,hibernate" collectionTime="1464684313193" />
+      <project id="mapping02" values="TransactionJavaee,hibernate" collectionTime="1467558752496" />
+      <project id="mapping01" values="hibernate,TransactionJavaee" collectionTime="1467615016634" />
+      <project id="HQLDemo" values="TransactionJavaee,hibernate" collectionTime="1467262223077" />
+      <project id="Test" values="spring" collectionTime="1464356257391" />
+      <project id="test_ssh" values="spring,hibernate,spring-mvc,TransactionJavaee" collectionTime="1464797921463" />
+      <project id="structs2Demo01" values="hibernate,spring-mvc,TransactionJavaee,spring,struts2" collectionTime="1467189721590" />
+      <project id="SpringDemo02" values="spring-mvc,spring" collectionTime="1464666789488" />
+      <project id="SpringMVC" values="TransactionJavaee,BeanValidation,spring-mvc,spring,hibernate" collectionTime="1464842353821" />
+      <project id="SpringMvcDemo06" values="spring,hibernate,TransactionJavaee,spring-mvc,struts2" collectionTime="1468765776084" />
+      <project id="SpringDemo01" values="spring,hibernate,TransactionJavaee" collectionTime="1463313900868" />
+      <project id="SpringMvcDemo04" values="spring-mvc,spring,TransactionJavaee,hibernate" collectionTime="1467032594975" />
+      <project id="SpringMvcDemo03" values="spring-mvc,hibernate,TransactionJavaee,spring" collectionTime="1465123347663" />
+      <project id="SpringMvcDemo05" values="spring,hibernate,spring-mvc,TransactionJavaee" collectionTime="1465090740462" />
+      <project id="SpringMvcDemo01" values="spring-mvc,spring" collectionTime="1464797414529" />
+      <project id="untitled" values="spring-mvc,struts2,spring,hibernate,TransactionJavaee" collectionTime="1468308414124" />
+      <project id="spring-01" values="spring" collectionTime="1470576878656" />
+      <project id="Struts2Demo01" values="hibernate,struts2,TransactionJavaee" collectionTime="1463394140258" />
+      <project id="springmvcdemo" values="spring,spring-data-jpa,hibernate,TransactionJavaee,spring-mvc" collectionTime="1462279380875" />
+      <project id="ssh01" values="struts2,spring,hibernate,WebSocket,TransactionJavaee,EJB" collectionTime="1468765079001" />
+      <project id="annotate-relationship" values="TransactionJavaee,hibernate,struts2" collectionTime="1467992585121" />
+      <project id="demo01" values="struts2" collectionTime="1464568584986" />
+      <project id="annotate" values="TransactionJavaee,hibernate,struts2" collectionTime="1467720161105" />
+      <project id="SpringMvcDemo02" values="hibernate,TransactionJavaee" collectionTime="1464935390141" />
+    </group>
+    <group name="Spring MVC">
+      <project id="test_ssh" values="mvcModelsInProject_0" collectionTime="1464797921478" />
+      <project id="springDemo03" values="fileset_webXml,viewResolvers_1,fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp,mvcModelsInProject_1" collectionTime="1464667814328" />
+      <project id="springmvcdemo" values="mvcModelsInProject_1,fileset_webXml,viewResolvers_1,viewResolver_UrlBasedViewResolver_.jsp" collectionTime="1462279381664" />
+      <project id="test" values="fileset_webXml,fileset_webXml,viewResolvers_0,mvcModelsInProject_1" collectionTime="1464935707954" />
+      <project id="springDemo01" values="viewResolvers_1,mvcModelsInProject_1,fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp" collectionTime="1464684314286" />
+      <project id="structs2Demo01" values="mvcModelsInProject_0" collectionTime="1467189721777" />
+      <project id="SpringMVC" values="viewResolvers_1,fileset_webXml,mvcModelsInProject_1,fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp" collectionTime="1464842354541" />
+      <project id="SpringDemo02" values="mvcModelsInProject_1,fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp,fileset_webXml,viewResolvers_1" collectionTime="1464666789540" />
+      <project id="SpringMvcDemo06" values="fileset_webXml,mvcModelsInProject_1,viewResolver_UrlBasedViewResolver_.jsp,fileset_webXml,viewResolvers_1" collectionTime="1468765776115" />
+      <project id="SpringMvcDemo05" values="mvcModelsInProject_1,fileset_webXml,fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp,viewResolvers_1" collectionTime="1465090740602" />
+      <project id="SpringMvcDemo04" values="mvcModelsInProject_1,fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp,fileset_webXml,viewResolvers_1" collectionTime="1467032595241" />
+      <project id="SpringMvcDemo03" values="fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp,viewResolvers_1,fileset_webXml,mvcModelsInProject_1" collectionTime="1465123347764" />
+      <project id="SpringMvcDemo01" values="fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp,mvcModelsInProject_1,viewResolvers_1,fileset_webXml" collectionTime="1464797415388" />
+      <project id="untitled" values="fileset_webXml,mvcModelsInProject_1,viewResolvers_0,fileset_webXml" collectionTime="1468308414157" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="ssh01" values="com.mysql.jdbc.Driver" collectionTime="1468765079196" />
+      <project id="springmvcdemo" values="com.mysql.jdbc.Driver" collectionTime="1462279381241" />
+    </group>
+    <group name="spring">
+      <project id="springDemo03" values="fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet" collectionTime="1464667814283" />
+      <project id="SpringMVC" values="fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet" collectionTime="1464842354187" />
+      <project id="SpringDemo01" values="fileset_autodetect_NONE" collectionTime="1463313900883" />
+      <project id="chapter08" values="fileset_autodetect_NONE" collectionTime="1468297143321" />
+      <project id="test" values="fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet" collectionTime="1464935707798" />
+      <project id="springDemo01" values="xmlNS_www.springframework.org/schema/context,fileset_xmlContext,fileset_configFiles5,xmlNS_www.springframework.org/schema/mvc,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet" collectionTime="1464684313583" />
+      <project id="ssh01" values="fileset_autodetect_NONE,xmlNS_www.springframework.org/schema/aop,fileset_xmlContext,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,fileset_configFiles5" collectionTime="1468765079198" />
+      <project id="spring-01" values="fileset_autodetect_NONE" collectionTime="1470576878879" />
+      <project id="SpringDemo02" values="fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet" collectionTime="1464666789511" />
+      <project id="Test" values="fileset_autodetect_NONE" collectionTime="1464356257894" />
+      <project id="SpringMvcDemo06" values="fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet" collectionTime="1468765776084" />
+      <project id="SpringMvcDemo05" values="fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet" collectionTime="1465090740493" />
+      <project id="SpringMvcDemo04" values="fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet" collectionTime="1467032595147" />
+      <project id="SpringMvcDemo03" values="fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet" collectionTime="1465123347681" />
+      <project id="SpringMvcDemo02" values="fileset_xmlContext,fileset_autodetect_NONE,fileset_configFiles5" collectionTime="1464935390532" />
+      <project id="SpringMvcDemo01" values="fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet" collectionTime="1464797414966" />
+      <project id="springmvcdemo" values="xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,fileset_configFiles5,xmlNS_www.springframework.org/schema/data/jpa,xmlNS_www.springframework.org/schema/tx,fileset_xmlContext,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet" collectionTime="1462279381265" />
+      <project id="untitled" values="fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet" collectionTime="1468308414131" />
+    </group>
+    <group name="frameworks">
+      <project id="chapter08" values="Spring" collectionTime="1468297142993" />
+      <project id="test" values="Spring,hibernate,web" collectionTime="1464935707533" />
+      <project id="chapter06" values="web,hibernate,Struts2" collectionTime="1467615257116" />
+      <project id="chapter05" values="Struts2,web,hibernate" collectionTime="1467561649001" />
+      <project id="chapter04" values="Struts2,web" collectionTime="1467203355165" />
+      <project id="springDemo03" values="Spring,web" collectionTime="1464667814180" />
+      <project id="chapter06-one-one" values="hibernate,web,Struts2" collectionTime="1467702862322" />
+      <project id="springDemo01" values="web,Spring" collectionTime="1464684312891" />
+      <project id="BikeSystem01" values="web" collectionTime="1464356783207" />
+      <project id="mapping02" values="hibernate,Struts2,web" collectionTime="1467558752434" />
+      <project id="mapping01" values="web,hibernate" collectionTime="1467615016431" />
+      <project id="HQLDemo" values="web,hibernate" collectionTime="1467262222984" />
+      <project id="Test" values="Spring,web" collectionTime="1464356257098" />
+      <project id="structs2Demo01" values="Struts2,hibernate,web" collectionTime="1467189721465" />
+      <project id="UseJsp" values="web" collectionTime="1461592045908" />
+      <project id="SpringDemo01" values="hibernate,Spring" collectionTime="1463313900727" />
+      <project id="StepInServlet" values="web" collectionTime="1461228511185" />
+      <project id="SpringMvcDemo06" values="Spring,web,hibernate" collectionTime="1468765776037" />
+      <project id="SpringMvcDemo05" values="web,Spring,hibernate" collectionTime="1465090740274" />
+      <project id="SpringMvcDemo04" values="hibernate,web,Spring" collectionTime="1467032594881" />
+      <project id="SpringMvcDemo03" values="hibernate,Spring,web" collectionTime="1465123347524" />
+      <project id="SpringMvcDemo02" values="web,Spring" collectionTime="1464935389907" />
+      <project id="SpringDemo02" values="web,Spring" collectionTime="1464666789281" />
+      <project id="SessionServlet" values="web" collectionTime="1461239610865" />
+      <project id="untitled" values="Spring,Struts2,hibernate,web" collectionTime="1468308414093" />
+      <project id="spring-01" values="Spring" collectionTime="1470576878516" />
+      <project id="Struts2Demo01" values="Struts2,web,hibernate" collectionTime="1463394139945" />
+      <project id="BikeInfoShowByGalaxy" values="web" collectionTime="1465175452021" />
+      <project id="springmvcdemo" values="jpa,web,Spring" collectionTime="1462279380513" />
+      <project id="ssh01" values="Spring,hibernate,web,Struts2" collectionTime="1468765078939" />
+      <project id="annotate-relationship" values="hibernate,Struts2,web" collectionTime="1467992585012" />
+      <project id="ExamServlet" values="web" collectionTime="1461224014753" />
+      <project id="demo01" values="Struts2,web" collectionTime="1464568584814" />
+      <project id="ShoppingDemo" values="web" collectionTime="1461660294773" />
+      <project id="SpringMVC" values="web,Spring" collectionTime="1464842353549" />
+      <project id="SpringMvcDemo01" values="web,Spring" collectionTime="1464797414310" />
+      <project id="annotate" values="hibernate,Struts2,web" collectionTime="1467720161011" />
+      <project id="ServletDemo04" values="web" collectionTime="1461200871602" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="chapter08" values="Project,Project" collectionTime="1468297143305" />
+      <project id="test" values="Project,Project" collectionTime="1464935707767" />
+      <project id="MyBook" values="Project,Project" collectionTime="1468118692298" />
+      <project id="structs2Demo01" values="Project,Project" collectionTime="1467189721777" />
+      <project id="chapter04" values="Project,Project" collectionTime="1467203355211" />
+      <project id="springDemo03" values="Project,Project" collectionTime="1464667814275" />
+      <project id="chapter06-one-one" values="Project,Project" collectionTime="1467702862635" />
+      <project id="springDemo01" values="Project,Project" collectionTime="1464684313570" />
+      <project id="BikeSystem01" values="Project,Project" collectionTime="1464356783331" />
+      <project id="chapter06" values="Project,Project" collectionTime="1467615257188" />
+      <project id="PBikeVis system" values="Project,Project" collectionTime="1462366198773" />
+      <project id="mapping02" values="Project,Project" collectionTime="1467558752496" />
+      <project id="mapping01" values="Project,Project" collectionTime="1467615016806" />
+      <project id="HQLDemo" values="Project,Project" collectionTime="1467262223249" />
+      <project id="Test" values="Project,Project" collectionTime="1464356257890" />
+      <project id="test_ssh" values="Project,Project" collectionTime="1464797921478" />
+      <project id="threadLoacl" values="Project,Project" collectionTime="1468297156998" />
+      <project id="zhibing_springmvc" values="Project,Project" collectionTime="1464884194036" />
+      <project id="chapter05" values="Project,Project" collectionTime="1467561649029" />
+      <project id="UseJsp" values="Project,Project" collectionTime="1461592046533" />
+      <project id="SpringDemo01" values="Project,Project" collectionTime="1463313900883" />
+      <project id="StepInServlet" values="Project,Project" collectionTime="1461228511232" />
+      <project id="SpringMvcDemo06" values="Project,Project" collectionTime="1468765776084" />
+      <project id="SpringMvcDemo05" values="Project,Project" collectionTime="1465090740477" />
+      <project id="SpringMvcDemo04" values="Project,Project" collectionTime="1467032595131" />
+      <project id="SpringMvcDemo03" values="Project,Project" collectionTime="1465123347670" />
+      <project id="SpringMvcDemo02" values="Project,Project" collectionTime="1464935390516" />
+      <project id="SpringDemo02" values="Project,Project" collectionTime="1464666789496" />
+      <project id="SessionServlet" values="Project,Project" collectionTime="1461239611071" />
+      <project id="untitled" values="Project,Project" collectionTime="1468308414126" />
+      <project id="spring-01" values="Project,Project" collectionTime="1470576878848" />
+      <project id="Struts2Demo01" values="Project,Project" collectionTime="1463394140648" />
+      <project id="BikeInfoShowByGalaxy" values="Project,Project" collectionTime="1465175452188" />
+      <project id="springmvcdemo" values="Project,Project" collectionTime="1462279381243" />
+      <project id="ssh01" values="Project,Project" collectionTime="1468765079195" />
+      <project id="annotate-relationship" values="Project,Project" collectionTime="1467992585340" />
+      <project id="reflect" values="Project,Project" collectionTime="1468844954164" />
+      <project id="acm" values="Project,Project" collectionTime="1479882725422" />
+      <project id="ExamServlet" values="Project,Project" collectionTime="1461224015003" />
+      <project id="demo01" values="Project,Project" collectionTime="1464568585002" />
+      <project id="threadLocal" values="Project,Project" collectionTime="1468301594987" />
+      <project id="ShoppingDemo" values="Project,Project" collectionTime="1461660295512" />
+      <project id="book02" values="Project,Project" collectionTime="1469859933190" />
+      <project id="SpringMVC" values="Project,Project" collectionTime="1464842354166" />
+      <project id="SpringMvcDemo01" values="Project,Project" collectionTime="1464797414951" />
+      <project id="annotate" values="Project,Project" collectionTime="1467720161261" />
+      <project id="ServletDemo04" values="Project,Project" collectionTime="1461200871852" />
+    </group>
+    <group name="Git">
+      <project id="chapter08" values="config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.force.push.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled" collectionTime="1468297143086" />
+      <project id="test" values="config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.save.policy.STASH" collectionTime="1464935707767" />
+      <project id="MyBook" values="config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled" collectionTime="1468118692126" />
+      <project id="structs2Demo01" values="config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.autoupdate.disabled" collectionTime="1467189721606" />
+      <project id="chapter04" values="config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled" collectionTime="1467203355211" />
+      <project id="springDemo03" values="config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.ssh.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1464667814272" />
+      <project id="chapter06-one-one" values="config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.force.push.enabled" collectionTime="1467702862447" />
+      <project id="springDemo01" values="config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.ssh.enabled" collectionTime="1464684313207" />
+      <project id="BikeSystem01" values="config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.warn.about.crlf.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.push.update.all.roots.enabled" collectionTime="1464356783323" />
+      <project id="chapter06" values="config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT" collectionTime="1467615257188" />
+      <project id="PBikeVis system" values="config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.ssh.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled" collectionTime="1462366198460" />
+      <project id="mapping02" values="config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.force.push.enabled" collectionTime="1467558752496" />
+      <project id="mapping01" values="config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled" collectionTime="1467615016650" />
+      <project id="HQLDemo" values="config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled" collectionTime="1467262223077" />
+      <project id="Test" values="config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled" collectionTime="1464356257412" />
+      <project id="test_ssh" values="config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1464797921478" />
+      <project id="threadLoacl" values="config.force.push.enabled,config.ssh.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled" collectionTime="1468297156998" />
+      <project id="zhibing_springmvc" values="config.save.policy.STASH,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.ssh.enabled" collectionTime="1464884193850" />
+      <project id="chapter05" values="config.force.push.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1467561649028" />
+      <project id="UseJsp" values="config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.autoupdate.disabled" collectionTime="1461592046205" />
+      <project id="SpringDemo01" values="config.ssh.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH" collectionTime="1463313900868" />
+      <project id="StepInServlet" values="config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled" collectionTime="1461228511232" />
+      <project id="SpringMvcDemo06" values="config.force.push.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED" collectionTime="1468765776084" />
+      <project id="SpringMvcDemo05" values="config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH" collectionTime="1465090740462" />
+      <project id="SpringMvcDemo04" values="config.warn.about.crlf.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled" collectionTime="1467032594975" />
+      <project id="SpringMvcDemo03" values="config.warn.about.crlf.enabled,config.save.policy.STASH,config.ssh.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.push.update.all.roots.enabled" collectionTime="1465123347665" />
+      <project id="SpringMvcDemo02" values="config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.force.push.enabled" collectionTime="1464935390157" />
+      <project id="SpringDemo02" values="config.force.push.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled" collectionTime="1464666789491" />
+      <project id="SessionServlet" values="config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.repo.sync.NOT_DECIDED" collectionTime="1461239610938" />
+      <project id="untitled" values="config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.ssh.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1468308414125" />
+      <project id="spring-01" values="config.save.policy.STASH,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1470576878658" />
+      <project id="Struts2Demo01" values="config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled" collectionTime="1463394140273" />
+      <project id="BikeInfoShowByGalaxy" values="config.push.update.all.roots.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1465175452186" />
+      <project id="springmvcdemo" values="config.ssh.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH" collectionTime="1462279380900" />
+      <project id="ssh01" values="config.warn.about.detached.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.autoupdate.disabled" collectionTime="1468765079005" />
+      <project id="annotate-relationship" values="config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.force.push.enabled,config.ssh.enabled,config.push.autoupdate.disabled" collectionTime="1467992585121" />
+      <project id="reflect" values="config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.ssh.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT" collectionTime="1468844954008" />
+      <project id="acm" values="config.push.autoupdate.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1479882725174" />
+      <project id="ExamServlet" values="config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.ssh.enabled" collectionTime="1461224014847" />
+      <project id="demo01" values="config.push.autoupdate.disabled,config.force.push.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled" collectionTime="1464568585002" />
+      <project id="threadLocal" values="config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled" collectionTime="1468301594986" />
+      <project id="ShoppingDemo" values="config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT" collectionTime="1461660295038" />
+      <project id="book02" values="config.force.push.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED" collectionTime="1469859933065" />
+      <project id="SpringMVC" values="config.save.policy.STASH,config.push.autoupdate.disabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1464842353834" />
+      <project id="SpringMvcDemo01" values="config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.force.push.enabled,config.save.policy.STASH" collectionTime="1464797414544" />
+      <project id="annotate" values="config.save.policy.STASH,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled" collectionTime="1467720161120" />
+      <project id="ServletDemo04" values="config.push.autoupdate.disabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled" collectionTime="1461200871680" />
+    </group>
+    <group name="images.ide.background">
+      <project id="ssh01" values="frame 0,editor 0" collectionTime="1468765079002" />
+      <project id="SpringMvcDemo06" values="editor 0,frame 0" collectionTime="1468765776084" />
+      <project id="book02" values="frame 0,editor 0" collectionTime="1469859933065" />
+      <project id="acm" values="frame 0,editor 0" collectionTime="1479882725171" />
+      <project id="spring-01" values="editor 0,frame 0" collectionTime="1470576878656" />
+      <project id="reflect" values="editor 0,frame 0" collectionTime="1468844954008" />
+    </group>
+    <group name="language-level">
+      <project id="chapter08" values="JDK_1_8" collectionTime="1468297143086" />
+      <project id="test" values="JDK_1_8" collectionTime="1464935707767" />
+      <project id="MyBook" values="JDK_1_8" collectionTime="1468118692126" />
+      <project id="structs2Demo01" values="JDK_1_8" collectionTime="1467189721606" />
+      <project id="chapter04" values="JDK_1_8" collectionTime="1467203355211" />
+      <project id="springDemo03" values="JDK_1_8" collectionTime="1464667814272" />
+      <project id="chapter06-one-one" values="JDK_1_8" collectionTime="1467702862447" />
+      <project id="springDemo01" values="JDK_1_8,JDK_1_5" collectionTime="1464684313204" />
+      <project id="BikeSystem01" values="JDK_1_8" collectionTime="1464356783323" />
+      <project id="chapter06" values="JDK_1_8" collectionTime="1467615257188" />
+      <project id="PBikeVis system" values="JDK_1_8" collectionTime="1462366198457" />
+      <project id="mapping02" values="JDK_1_8" collectionTime="1467558752496" />
+      <project id="mapping01" values="JDK_1_8" collectionTime="1467615016634" />
+      <project id="HQLDemo" values="JDK_1_8" collectionTime="1467262223077" />
+      <project id="Test" values="JDK_1_8" collectionTime="1464356257407" />
+      <project id="test_ssh" values="JDK_1_8" collectionTime="1464797921478" />
+      <project id="threadLoacl" values="JDK_1_3" collectionTime="1468297156998" />
+      <project id="zhibing_springmvc" values="JDK_1_8" collectionTime="1464884193850" />
+      <project id="chapter05" values="JDK_1_8" collectionTime="1467561649028" />
+      <project id="UseJsp" values="JDK_1_8" collectionTime="1461592046205" />
+      <project id="SpringDemo01" values="JDK_1_8" collectionTime="1463313900868" />
+      <project id="StepInServlet" values="JDK_1_8" collectionTime="1461228511232" />
+      <project id="SpringMvcDemo06" values="JDK_1_8" collectionTime="1468765776084" />
+      <project id="SpringMvcDemo05" values="JDK_1_8" collectionTime="1465090740462" />
+      <project id="SpringMvcDemo04" values="JDK_1_8" collectionTime="1467032594975" />
+      <project id="SpringMvcDemo03" values="JDK_1_8" collectionTime="1465123347664" />
+      <project id="SpringMvcDemo02" values="JDK_1_3" collectionTime="1464935390157" />
+      <project id="SpringDemo02" values="JDK_1_8" collectionTime="1464666789491" />
+      <project id="SessionServlet" values="JDK_1_8" collectionTime="1461239610937" />
+      <project id="untitled" values="JDK_1_8" collectionTime="1468308414125" />
+      <project id="spring-01" values="JDK_1_8" collectionTime="1470576878657" />
+      <project id="Struts2Demo01" values="JDK_1_8" collectionTime="1463394140273" />
+      <project id="BikeInfoShowByGalaxy" values="JDK_1_8" collectionTime="1465175452185" />
+      <project id="springmvcdemo" values="JDK_1_5,JDK_1_8" collectionTime="1462279380894" />
+      <project id="ssh01" values="JDK_1_8" collectionTime="1468765079003" />
+      <project id="annotate-relationship" values="JDK_1_8" collectionTime="1467992585121" />
+      <project id="reflect" values="JDK_1_8" collectionTime="1468844954008" />
+      <project id="acm" values="JDK_1_8" collectionTime="1479882725172" />
+      <project id="ExamServlet" values="JDK_1_8" collectionTime="1461224014847" />
+      <project id="demo01" values="JDK_1_8" collectionTime="1464568585002" />
+      <project id="threadLocal" values="JDK_1_8" collectionTime="1468301594986" />
+      <project id="ShoppingDemo" values="JDK_1_8" collectionTime="1461660295034" />
+      <project id="book02" values="JDK_1_8" collectionTime="1469859933065" />
+      <project id="SpringMVC" values="JDK_1_5,JDK_1_6" collectionTime="1464842353832" />
+      <project id="SpringMvcDemo01" values="JDK_1_8" collectionTime="1464797414544" />
+      <project id="annotate" values="JDK_1_8" collectionTime="1467720161120" />
+      <project id="ServletDemo04" values="JDK_1_8" collectionTime="1461200871680" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.HTML5 Boilerplate" count="1" />
+      <entry feature="CreateFile.CreateFileAction" count="5" />
+      <entry feature="CreateFile.CreateSpringConfigAction" count="4" />
+      <entry feature="CreateFile.CreateTaglibFileAction" count="1" />
+      <entry feature="JSDebugConfig.Run.browser-default.preferredBrowser-null.no_mappings" count="12" />
+      <entry feature="OpenInBrowser.Chrome" count="1" />
+      <entry feature="OpenInBrowser.Firefox" count="1" />
+      <entry feature="OpenInBrowser.Safari" count="1" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="351" />
+      <entry feature="execute.Application.Debug" count="6" />
+      <entry feature="execute.Application.Run" count="311" />
+      <entry feature="execute.JUnit.Debug" count="2" />
+      <entry feature="execute.JUnit.Run" count="123" />
+      <entry feature="execute.JavascriptDebugType.Run" count="12" />
+      <entry feature="ide.help.viewingStructure.projectViews" count="1" />
+      <entry feature="ide.settings.Appearance" count="4" />
+      <entry feature="ide.settings.Application&#10;Servers" count="4" />
+      <entry feature="ide.settings.Auto_Import" count="1" />
+      <entry feature="ide.settings.CSS" count="4" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Console_Font" count="14" />
+      <entry feature="ide.settings.Font" count="23" />
+      <entry feature="ide.settings.General" count="5" />
+      <entry feature="ide.settings.HTML" count="6" />
+      <entry feature="ide.settings.Importing" count="1" />
+      <entry feature="ide.settings.Inspections" count="1" />
+      <entry feature="ide.settings.JSP" count="3" />
+      <entry feature="ide.settings.Java" count="1" />
+      <entry feature="ide.settings.JavaScript" count="4" />
+      <entry feature="ide.settings.Keymap" count="2" />
+      <entry feature="ide.settings.Language_Defaults" count="1" />
+      <entry feature="ide.settings.Maven" count="1" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Project_Structure" count="7" />
+      <entry feature="ide.settings.Terminal" count="9" />
+      <entry feature="ide.settings.Tomcat_Server" count="11" />
+      <entry feature="ide.settings.Web_Browsers" count="6" />
+      <entry feature="ide.settings.XML" count="1" />
+      <entry feature="ideaapp.started" count="221" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="36" />
+      <entry feature="spring.SpringFacetInspection.AddFacetFix" count="3" />
+      <entry feature="spring.SpringFacetInspection.ConfigureFileSetFix" count="4" />
+      <entry feature="terminal.win" count="15" />
+      <entry feature="welcome.screen.WelcomScreen.ManageLicense" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="43" />
+      <entry feature="welcome.screen.WelcomeScreen.Documentation" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="19" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.Update" count="1" />
+      <entry feature="welcome.screen.null" count="1" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,274 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id="ServletDemo01" values="config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.force.push.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled" collectionTime="1460422796570" />
+      <project id="OPlayer-master" values="config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.force.push.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled" collectionTime="1464107134648" />
+      <project id="try_PullToRefresh_map" values="config.save.policy.STASH,config.force.push.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled" collectionTime="1459427376574" />
+      <project id="CustomSearchView-master" values="config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.force.push.enabled" collectionTime="1461913225305" />
+      <project id="Yobo.Android" values="config.force.push.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.push.update.all.roots.enabled" collectionTime="1464084252360" />
+      <project id="MyWeather" values="config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.ssh.enabled,config.push.autoupdate.disabled" collectionTime="1458490220432" />
+      <project id="AmazeFileManager-master" values="config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH" collectionTime="1460429203645" />
+      <project id="MyMoviePlay" values="config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled" collectionTime="1464107548187" />
+      <project id="AmazeFileManager" values="config.push.update.all.roots.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.repo.sync.NOT_DECIDED" collectionTime="1460429503684" />
+      <project id="sample" values="config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled" collectionTime="1464086488480" />
+      <project id="Category" values="config.force.push.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1456831294469" />
+      <project id="project.properties" values="config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled" collectionTime="1464084409566" />
+      <project id="AnalogClock" values="config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.save.policy.STASH" collectionTime="1458179324362" />
+      <project id="WayHoo" values="config.ssh.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled" collectionTime="1464084280266" />
+      <project id="VitamioPlayer" values="config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled" collectionTime="1464258351822" />
+      <project id="My Application" values="config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.push.autoupdate.disabled" collectionTime="1487395441676" />
+      <project id="Logd" values="config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.force.push.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled" collectionTime="1456935421492" />
+      <project id="VitamioBundle-3.0" values="config.push.update.all.roots.enabled,config.force.push.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1464085553868" />
+      <project id="LoveHDUFinish" values="config.warn.about.detached.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH" collectionTime="1461901572904" />
+      <project id="FPlayer" values="config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED" collectionTime="1465571492017" />
+      <project id="Json" values="config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.force.push.enabled" collectionTime="1458522283975" />
+      <project id="MyPlayer" values="config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1464175676494" />
+      <project id="BaiduMapsApiDemo" values="config.push.update.all.roots.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1461937445568" />
+      <project id="BaiduLocDemo" values="config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.ssh.enabled" collectionTime="1461990963736" />
+      <project id="LaVideo" values="config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled" collectionTime="1465211789694" />
+      <project id="BDMap" values="config.force.push.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.push.autoupdate.disabled" collectionTime="1461944687895" />
+      <project id="JsonDemo" values="config.save.policy.STASH,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled" collectionTime="1459361498068" />
+      <project id="Sudokuv4" values="config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.force.push.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1463668895815" />
+      <project id="SearchModle" values="config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.detached.enabled,config.force.push.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1461912756382" />
+      <project id="MySeacher" values="config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.ssh.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled" collectionTime="1461913632828" />
+      <project id="VitamioBundle-master" values="config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH" collectionTime="1464087520980" />
+      <project id="MyMap" values="config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled" collectionTime="1462853379620" />
+      <project id="vitamio-sample" values="config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.force.push.enabled,config.push.autoupdate.disabled" collectionTime="1464094179318" />
+      <project id="VideoPlayer" values="config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.ssh.enabled" collectionTime="1464234847990" />
+      <project id="VideoDemo" values="config.warn.about.crlf.enabled,config.force.push.enabled,config.save.policy.STASH,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1464336875836" />
+      <project id="MyApplication" values="config.save.policy.STASH,config.force.push.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled" collectionTime="1488631143711" />
+    </group>
+    <group name="language-level">
+      <project id="ServletDemo01" values="JDK_1_7" collectionTime="1460422796570" />
+      <project id="OPlayer-master" values="JDK_1_7,JDK_1_6" collectionTime="1464107134648" />
+      <project id="try_PullToRefresh_map" values="JDK_1_6" collectionTime="1459427376574" />
+      <project id="CustomSearchView-master" values="JDK_1_6" collectionTime="1461913225305" />
+      <project id="Yobo.Android" values="JDK_1_7" collectionTime="1464084252357" />
+      <project id="MyWeather" values="JDK_1_7,JDK_1_6" collectionTime="1458490220432" />
+      <project id="AmazeFileManager-master" values="JDK_1_6" collectionTime="1460429203645" />
+      <project id="Log" values="JDK_1_7" collectionTime="1446596458116" />
+      <project id="JsonDemo" values="JDK_1_7" collectionTime="1459361498068" />
+      <project id="MyMoviePlay" values="JDK_1_7" collectionTime="1464107548187" />
+      <project id="AmazeFileManager" values="JDK_1_6" collectionTime="1460429503684" />
+      <project id="sample" values="JDK_1_7" collectionTime="1464086488480" />
+      <project id="Category" values="JDK_1_7" collectionTime="1456831294469" />
+      <project id="project.properties" values="JDK_1_6" collectionTime="1464084409566" />
+      <project id="VideoDemo" values="JDK_1_7" collectionTime="1464336875821" />
+      <project id="AnalogClock" values="JDK_1_7" collectionTime="1458179324362" />
+      <project id="WayHoo" values="JDK_1_7" collectionTime="1464084280266" />
+      <project id="VitamioPlayer" values="JDK_1_7" collectionTime="1464258351822" />
+      <project id="My Application" values="JDK_1_8,JDK_1_7" collectionTime="1487395441674" />
+      <project id="Logd" values="JDK_1_7" collectionTime="1456935421492" />
+      <project id="VitamioBundle-3.0" values="JDK_1_6,JDK_1_7" collectionTime="1464085553868" />
+      <project id="LoveHDUFinish" values="JDK_1_6,JDK_1_7" collectionTime="1461901572900" />
+      <project id="FPlayer" values="JDK_1_7" collectionTime="1465571492001" />
+      <project id="Json" values="JDK_1_7" collectionTime="1458522283975" />
+      <project id="MyPlayer" values="JDK_1_6" collectionTime="1464175676494" />
+      <project id="BaiduMapsApiDemo" values="JDK_1_7,JDK_1_6" collectionTime="1461937445568" />
+      <project id="BaiduLocDemo" values="JDK_1_7" collectionTime="1461990963720" />
+      <project id="Exception" values="JDK_1_7" collectionTime="1447200563498" />
+      <project id="LaVideo" values="JDK_1_7" collectionTime="1465211789692" />
+      <project id="BDMap" values="JDK_1_6,JDK_1_7" collectionTime="1461944687895" />
+      <project id="MySeacher" values="JDK_1_7" collectionTime="1461913632828" />
+      <project id="Sudokuv4" values="JDK_1_5,JDK_1_7" collectionTime="1463668895815" />
+      <project id="SearchModle" values="JDK_1_7" collectionTime="1461912756367" />
+      <project id="VitamioBundle-master" values="JDK_1_7" collectionTime="1464087520980" />
+      <project id="MyMap" values="JDK_1_7" collectionTime="1462853379617" />
+      <project id="vitamio-sample" values="JDK_1_6" collectionTime="1464094179318" />
+      <project id="VideoPlayer" values="JDK_1_7" collectionTime="1464234847990" />
+      <project id="LayoutTest2" values="JDK_1_7" collectionTime="1447239796457" />
+      <project id="MyApplication" values="JDK_1_8,JDK_1_7" collectionTime="1488631143710" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="ServletDemo01" values="Unknown" collectionTime="1460422790273" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="ServletDemo01" values="Unknown" collectionTime="1460422790273" />
+      <project id="OPlayer-master" values="AndroidRunConfigurationType" collectionTime="1464107134421" />
+      <project id="try_PullToRefresh_map" values="AndroidRunConfigurationType" collectionTime="1459427376527" />
+      <project id="Yobo.Android" values="AndroidRunConfigurationType" collectionTime="1464084252178" />
+      <project id="MyWeather" values="AndroidRunConfigurationType" collectionTime="1458490220307" />
+      <project id="VideoDemo" values="AndroidRunConfigurationType" collectionTime="1464336875696" />
+      <project id="MyMoviePlay" values="AndroidRunConfigurationType" collectionTime="1464107548010" />
+      <project id="sample" values="AndroidRunConfigurationType" collectionTime="1464086488402" />
+      <project id="Json" values="AndroidRunConfigurationType" collectionTime="1458522283913" />
+      <project id="Logd" values="AndroidRunConfigurationType" collectionTime="1456935421351" />
+      <project id="AnalogClock" values="AndroidRunConfigurationType" collectionTime="1458179324128" />
+      <project id="MySeacher" values="AndroidRunConfigurationType" collectionTime="1461913632624" />
+      <project id="VitamioPlayer" values="AndroidRunConfigurationType" collectionTime="1464258351713" />
+      <project id="My Application" values="AndroidRunConfigurationType" collectionTime="1487395441551" />
+      <project id="LoveHDUFinish" values="AndroidRunConfigurationType" collectionTime="1461901572540" />
+      <project id="FPlayer" values="AndroidRunConfigurationType" collectionTime="1465571491626" />
+      <project id="Log" values="AndroidRunConfigurationType" collectionTime="1446596457974" />
+      <project id="MyPlayer" values="AndroidRunConfigurationType" collectionTime="1464175676228" />
+      <project id="BaiduMapsApiDemo" values="AndroidRunConfigurationType" collectionTime="1461937445507" />
+      <project id="BaiduLocDemo" values="AndroidRunConfigurationType" collectionTime="1461990963580" />
+      <project id="Exception" values="AndroidRunConfigurationType" collectionTime="1447200563194" />
+      <project id="LaVideo" values="AndroidRunConfigurationType" collectionTime="1465211789471" />
+      <project id="BDMap" values="AndroidRunConfigurationType" collectionTime="1461944687536" />
+      <project id="JsonDemo" values="AndroidRunConfigurationType" collectionTime="1459361497787" />
+      <project id="Sudokuv4" values="AndroidRunConfigurationType" collectionTime="1463668895549" />
+      <project id="SearchModle" values="AndroidRunConfigurationType" collectionTime="1461912756054" />
+      <project id="Category" values="AndroidRunConfigurationType" collectionTime="1456831294329" />
+      <project id="MyMap" values="AndroidRunConfigurationType" collectionTime="1462853379391" />
+      <project id="VideoPlayer" values="AndroidRunConfigurationType" collectionTime="1464234847850" />
+      <project id="LayoutTest2" values="AndroidRunConfigurationType" collectionTime="1447239796408" />
+      <project id="MyApplication" values="AndroidRunConfigurationType" collectionTime="1488631143656" />
+    </group>
+    <group name="frameworks">
+      <project id="ServletDemo01" values="invalid" collectionTime="1460422790273" />
+      <project id="OPlayer-master" values="java-gradle,android-gradle,android" collectionTime="1464107134421" />
+      <project id="try_PullToRefresh_map" values="android-gradle,java-gradle,android" collectionTime="1459427376527" />
+      <project id="CustomSearchView-master" values="android,android-gradle" collectionTime="1461913225196" />
+      <project id="Yobo.Android" values="android,java-gradle,android-gradle" collectionTime="1464084252176" />
+      <project id="MyWeather" values="android,android-gradle,java-gradle" collectionTime="1458490220307" />
+      <project id="AmazeFileManager-master" values="android-gradle,android" collectionTime="1460429203426" />
+      <project id="VideoDemo" values="android,java-gradle,android-gradle" collectionTime="1464336875696" />
+      <project id="MyMoviePlay" values="java-gradle,android,android-gradle" collectionTime="1464107548009" />
+      <project id="AmazeFileManager" values="android-gradle,android" collectionTime="1460429503668" />
+      <project id="sample" values="java-gradle,android,android-gradle" collectionTime="1464086488402" />
+      <project id="Json" values="android,java-gradle,android-gradle" collectionTime="1458522283913" />
+      <project id="Category" values="android-gradle,android,java-gradle" collectionTime="1456831294329" />
+      <project id="Logd" values="java-gradle,android-gradle,android" collectionTime="1456935421351" />
+      <project id="AnalogClock" values="android-gradle,android,java-gradle" collectionTime="1458179324128" />
+      <project id="WayHoo" values="android" collectionTime="1464084280172" />
+      <project id="VitamioPlayer" values="android,android-gradle,java-gradle" collectionTime="1464258351713" />
+      <project id="My Application" values="android,android-gradle,java-gradle" collectionTime="1487395441551" />
+      <project id="VitamioBundle-3.0" values="android,android-gradle,java-gradle" collectionTime="1464085553743" />
+      <project id="LoveHDUFinish" values="java-gradle,android-gradle,android" collectionTime="1461901572537" />
+      <project id="FPlayer" values="java-gradle,android-gradle,android" collectionTime="1465571491626" />
+      <project id="Log" values="android-gradle,android,java-gradle" collectionTime="1446596457974" />
+      <project id="MyPlayer" values="android,java-gradle,android-gradle" collectionTime="1464175676228" />
+      <project id="BaiduMapsApiDemo" values="android-gradle,android,java-gradle" collectionTime="1461937445507" />
+      <project id="BaiduLocDemo" values="java-gradle,android,android-gradle" collectionTime="1461990963580" />
+      <project id="Exception" values="android,android-gradle,java-gradle" collectionTime="1447200563193" />
+      <project id="LaVideo" values="java-gradle,android,android-gradle" collectionTime="1465211789469" />
+      <project id="BDMap" values="android,java-gradle,android-gradle" collectionTime="1461944687536" />
+      <project id="JsonDemo" values="android-gradle,java-gradle,android" collectionTime="1459361497787" />
+      <project id="Sudokuv4" values="java-gradle,android,android-gradle" collectionTime="1463668895549" />
+      <project id="SearchModle" values="android,android-gradle,java-gradle" collectionTime="1461912756054" />
+      <project id="MySeacher" values="android-gradle,android,java-gradle" collectionTime="1461913632624" />
+      <project id="VitamioBundle-master" values="android-gradle,android" collectionTime="1464087520870" />
+      <project id="MyMap" values="java-gradle,android-gradle,android" collectionTime="1462853379388" />
+      <project id="vitamio-sample" values="android-gradle,android" collectionTime="1464094179233" />
+      <project id="VideoPlayer" values="java-gradle,android,android-gradle" collectionTime="1464234847850" />
+      <project id="LayoutTest2" values="android-gradle,java-gradle,android" collectionTime="1447239796408" />
+      <project id="MyApplication" values="android,android-gradle,java-gradle" collectionTime="1488631143655" />
+    </group>
+    <group name="file-type">
+      <project id="ServletDemo01" values="JAVA,JavaScript,IDEA_MODULE,JSP,XML,UNKNOWN" collectionTime="1460422790992" />
+      <project id="OPlayer-master" values="ARCHIVE,IDEA_MODULE,CLASS,Groovy,JAVA,PLAIN_TEXT,UNKNOWN,Properties,Images,XML" collectionTime="1464107134633" />
+      <project id="try_PullToRefresh_map" values="IDEA_MODULE,Groovy,UNKNOWN,ARCHIVE,JAVA,Images,XML,PLAIN_TEXT,Properties" collectionTime="1459427376574" />
+      <project id="CustomSearchView-master" values="Images,XML,PLAIN_TEXT,Groovy,UNKNOWN,IDEA_MODULE,Properties,ProGuard File,ARCHIVE,JAVA" collectionTime="1461913225290" />
+      <project id="Yobo.Android" values="PLAIN_TEXT,IDEA_MODULE,AIDL,UNKNOWN,Images,XML,Properties,JAVA,Groovy,ARCHIVE" collectionTime="1464084252325" />
+      <project id="MyWeather" values="Images,IDEA_MODULE,Properties,PLAIN_TEXT,XML,ARCHIVE,JAVA,Groovy,UNKNOWN" collectionTime="1458490220416" />
+      <project id="AmazeFileManager-master" values="JAVA,PLAIN_TEXT,Images,ProGuard File,ARCHIVE,IDEA_MODULE,AIDL,Properties,UNKNOWN,Groovy,XML" collectionTime="1460429203630" />
+      <project id="Log" values="XML,Properties,PLAIN_TEXT,ARCHIVE,IDEA_MODULE,ProGuard File,Groovy,JAVA,UNKNOWN,AIDL,Images" collectionTime="1446596458093" />
+      <project id="JsonDemo" values="IDEA_MODULE,JAVA,AIDL,XML,ProGuard File,PLAIN_TEXT,Properties,Images,UNKNOWN,Groovy,ARCHIVE" collectionTime="1459361498053" />
+      <project id="MyMoviePlay" values="IDEA_MODULE,Images,Groovy,Properties,XML,JSON,PLAIN_TEXT,ARCHIVE,JAVA,UNKNOWN,AIDL" collectionTime="1464107548187" />
+      <project id="AmazeFileManager" values="IDEA_MODULE,UNKNOWN,ProGuard File,ARCHIVE,Images,PLAIN_TEXT,XML,Properties,Groovy,JAVA" collectionTime="1460429503684" />
+      <project id="sample" values="UNKNOWN,IDEA_MODULE,Groovy,HTML,Properties,JAVA,JSON,XML,Images,AIDL,PLAIN_TEXT,ARCHIVE,ProGuard File" collectionTime="1464086488480" />
+      <project id="Category" values="IDEA_MODULE,UNKNOWN,ARCHIVE,XML,AIDL,Properties,Images,Groovy,PLAIN_TEXT,JAVA,ProGuard File" collectionTime="1456831294454" />
+      <project id="project.properties" values="Properties,UNKNOWN" collectionTime="1464084409566" />
+      <project id="VideoDemo" values="Images,PLAIN_TEXT,XML,AIDL,JAVA,UNKNOWN,Groovy,IDEA_MODULE,ARCHIVE,Properties" collectionTime="1464336875821" />
+      <project id="AnalogClock" values="Properties,Groovy,Images,ProGuard File,XML,JAVA,IDEA_MODULE,PLAIN_TEXT,ARCHIVE,AIDL,UNKNOWN" collectionTime="1458179324346" />
+      <project id="WayHoo" values="ProGuard File,UNKNOWN,PLAIN_TEXT,JAVA,Images,IDEA_MODULE,Properties,ARCHIVE,XML,ObjectiveC" collectionTime="1464084280250" />
+      <project id="VitamioPlayer" values="UNKNOWN,CLASS,XML,Groovy,AIDL,IDEA_MODULE,HTML,ProGuard File,Images,Properties,ARCHIVE,JAVA,PLAIN_TEXT" collectionTime="1464258351820" />
+      <project id="My Application" values="AIDL,UNKNOWN,Groovy,ARCHIVE,Images,ProGuard File,PLAIN_TEXT,IDEA_MODULE,XML,JAVA,Properties" collectionTime="1487395441652" />
+      <project id="Logd" values="UNKNOWN,PLAIN_TEXT,IDEA_MODULE,ARCHIVE,AIDL,XML,Images,ProGuard File,Groovy,JAVA,Properties" collectionTime="1456935421476" />
+      <project id="VitamioBundle-3.0" values="XML,Images,PLAIN_TEXT,IDEA_MODULE,JAVA,ARCHIVE,Properties,UNKNOWN,Groovy" collectionTime="1464085553868" />
+      <project id="LoveHDUFinish" values="JAVA,ProGuard File,UNKNOWN,JSON,PLAIN_TEXT,Groovy,AIDL,XML,Images,Properties,ARCHIVE,IDEA_MODULE" collectionTime="1461901572861" />
+      <project id="FPlayer" values="Images,AIDL,UNKNOWN,ProGuard File,JAVA,ARCHIVE,IDEA_MODULE,PLAIN_TEXT,XML,Properties,Groovy" collectionTime="1465571491939" />
+      <project id="Json" values="UNKNOWN,Groovy,XML,Properties,JAVA,PLAIN_TEXT,ProGuard File,Images,ARCHIVE,AIDL,IDEA_MODULE" collectionTime="1458522283960" />
+      <project id="MyPlayer" values="IDEA_MODULE,UNKNOWN,ARCHIVE,JAVA,PLAIN_TEXT,Images,Groovy,Properties,CLASS,XML" collectionTime="1464175676478" />
+      <project id="BaiduMapsApiDemo" values="Images,XML,PLAIN_TEXT,UNKNOWN,JSON,Groovy,IDEA_MODULE,JAVA,Properties,HTML,ARCHIVE" collectionTime="1461937445568" />
+      <project id="BaiduLocDemo" values="Properties,ARCHIVE,PLAIN_TEXT,IDEA_MODULE,Images,UNKNOWN,Groovy,XML,AIDL,JAVA" collectionTime="1461990963705" />
+      <project id="Exception" values="Properties,XML,Images,ARCHIVE,ProGuard File,JAVA,AIDL,IDEA_MODULE,UNKNOWN,PLAIN_TEXT,Groovy" collectionTime="1447200563471" />
+      <project id="LaVideo" values="JAVA,Properties,Images,IDEA_MODULE,JSON,ARCHIVE,XML,PLAIN_TEXT,ProGuard File,Groovy,AIDL,UNKNOWN" collectionTime="1465211789663" />
+      <project id="BDMap" values="IDEA_MODULE,PLAIN_TEXT,Properties,UNKNOWN,XML,Images,JAVA,ARCHIVE,Groovy" collectionTime="1461944687864" />
+      <project id="MySeacher" values="IDEA_MODULE,ProGuard File,AIDL,PLAIN_TEXT,Groovy,Images,JAVA,ARCHIVE,Properties,UNKNOWN,XML" collectionTime="1461913632828" />
+      <project id="Sudokuv4" values="UNKNOWN,Properties,IDEA_MODULE,JSON,JAVA,XML,Images,PLAIN_TEXT,ARCHIVE,Groovy" collectionTime="1463668895799" />
+      <project id="SearchModle" values="XML,ProGuard File,Groovy,JSON,IDEA_MODULE,Properties,ARCHIVE,JAVA,AIDL,PLAIN_TEXT,UNKNOWN,Images" collectionTime="1461912756336" />
+      <project id="VitamioBundle-master" values="Groovy,ProGuard File,IDEA_MODULE,Images,XML,PLAIN_TEXT,Properties,JAVA,UNKNOWN" collectionTime="1464087520980" />
+      <project id="MyMap" values="Images,HTML,XML,ProGuard File,IDEA_MODULE,JAVA,Properties,UNKNOWN,PLAIN_TEXT,ARCHIVE,Groovy,AIDL" collectionTime="1462853379566" />
+      <project id="vitamio-sample" values="JAVA,UNKNOWN,CLASS,IDEA_MODULE,Images,PLAIN_TEXT,ARCHIVE,XML,Groovy,ProGuard File,Properties" collectionTime="1464094179316" />
+      <project id="VideoPlayer" values="JAVA,UNKNOWN,Groovy,AIDL,Images,Properties,IDEA_MODULE,XML,PLAIN_TEXT,ARCHIVE,ProGuard File" collectionTime="1464234847975" />
+      <project id="LayoutTest2" values="Groovy,ProGuard File,XML,JAVA,UNKNOWN,IDEA_MODULE,Images,PLAIN_TEXT,Properties,AIDL,ARCHIVE" collectionTime="1447239796454" />
+      <project id="MyApplication" values="IDEA_MODULE,JAVA,PLAIN_TEXT,Groovy,AIDL,ProGuard File,Properties,Images,XML,ARCHIVE" collectionTime="1488631143700" />
+    </group>
+    <group name="module type">
+      <project id="ServletDemo01" values="JAVA_MODULE" collectionTime="1460422790273" />
+      <project id="OPlayer-master" values="JAVA_MODULE" collectionTime="1464107134421" />
+      <project id="try_PullToRefresh_map" values="JAVA_MODULE" collectionTime="1459427376527" />
+      <project id="CustomSearchView-master" values="JAVA_MODULE" collectionTime="1461913225196" />
+      <project id="Yobo.Android" values="JAVA_MODULE" collectionTime="1464084252177" />
+      <project id="MyWeather" values="JAVA_MODULE" collectionTime="1458490220307" />
+      <project id="AmazeFileManager-master" values="JAVA_MODULE" collectionTime="1460429203426" />
+      <project id="Log" values="JAVA_MODULE" collectionTime="1446596457974" />
+      <project id="JsonDemo" values="JAVA_MODULE" collectionTime="1459361497787" />
+      <project id="MyMoviePlay" values="JAVA_MODULE" collectionTime="1464107548009" />
+      <project id="AmazeFileManager" values="JAVA_MODULE" collectionTime="1460429503668" />
+      <project id="sample" values="JAVA_MODULE" collectionTime="1464086488402" />
+      <project id="Category" values="JAVA_MODULE" collectionTime="1456831294329" />
+      <project id="project.properties" values="JAVA_MODULE" collectionTime="1464084409519" />
+      <project id="VideoDemo" values="JAVA_MODULE" collectionTime="1464336875696" />
+      <project id="AnalogClock" values="JAVA_MODULE" collectionTime="1458179324128" />
+      <project id="WayHoo" values="JAVA_MODULE" collectionTime="1464084280172" />
+      <project id="VitamioPlayer" values="JAVA_MODULE" collectionTime="1464258351713" />
+      <project id="My Application" values="JAVA_MODULE" collectionTime="1487395441551" />
+      <project id="Logd" values="JAVA_MODULE" collectionTime="1456935421351" />
+      <project id="VitamioBundle-3.0" values="JAVA_MODULE" collectionTime="1464085553743" />
+      <project id="LoveHDUFinish" values="JAVA_MODULE" collectionTime="1461901572538" />
+      <project id="FPlayer" values="JAVA_MODULE" collectionTime="1465571491626" />
+      <project id="Json" values="JAVA_MODULE" collectionTime="1458522283913" />
+      <project id="MyPlayer" values="JAVA_MODULE" collectionTime="1464175676228" />
+      <project id="BaiduMapsApiDemo" values="JAVA_MODULE" collectionTime="1461937445507" />
+      <project id="BaiduLocDemo" values="JAVA_MODULE" collectionTime="1461990963580" />
+      <project id="Exception" values="JAVA_MODULE" collectionTime="1447200563193" />
+      <project id="LaVideo" values="JAVA_MODULE" collectionTime="1465211789469" />
+      <project id="BDMap" values="JAVA_MODULE" collectionTime="1461944687536" />
+      <project id="MySeacher" values="JAVA_MODULE" collectionTime="1461913632624" />
+      <project id="Sudokuv4" values="JAVA_MODULE" collectionTime="1463668895549" />
+      <project id="SearchModle" values="JAVA_MODULE" collectionTime="1461912756054" />
+      <project id="VitamioBundle-master" values="JAVA_MODULE" collectionTime="1464087520870" />
+      <project id="MyMap" values="JAVA_MODULE" collectionTime="1462853379389" />
+      <project id="vitamio-sample" values="JAVA_MODULE" collectionTime="1464094179233" />
+      <project id="VideoPlayer" values="JAVA_MODULE" collectionTime="1464234847850" />
+      <project id="LayoutTest2" values="JAVA_MODULE" collectionTime="1447239796408" />
+      <project id="MyApplication" values="JAVA_MODULE" collectionTime="1488631143656" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="5" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="438" />
+      <entry feature="execute.AndroidRunConfigurationType.运行" count="3" />
+      <entry feature="ide.help.ideaInterface.editor" count="2" />
+      <entry feature="ide.help.top" count="1" />
+      <entry feature="ide.settings.Android_SDK" count="11" />
+      <entry feature="ide.settings.Appearance" count="3" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="6" />
+      <entry feature="ide.settings.Console_Font" count="7" />
+      <entry feature="ide.settings.Font" count="1" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.Gradle" count="2" />
+      <entry feature="ide.settings.Java" count="2" />
+      <entry feature="ide.settings.Language_Defaults" count="1" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Project_Structure" count="16" />
+      <entry feature="ide.settings.Updates" count="3" />
+      <entry feature="ideaapp.started" count="136" />
+      <entry feature="terminal.win" count="9" />
+      <entry feature="tips.of.the.day.next" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="7" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="12" />
+      <entry feature="welcome.screen.WelcomeScreen.Documentation" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.GoogleCloudTools.SampleImport" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="26" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="17" />
+      <entry feature="welcome.screen.WelcomeScreen.RunAndroidSdkManager" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.Update" count="3" />
+    </counts>
+  </component>
+</application>

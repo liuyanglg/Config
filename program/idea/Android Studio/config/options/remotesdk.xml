@@ -1,0 +1,5 @@
+<application>
+  <component name="SettingsController">
+    <option name="myForceHttp" value="true" />
+  </component>
+</application>

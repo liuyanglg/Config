@@ -1,0 +1,67 @@
+<application>
+  <component name="DimensionService">
+    <location key="SettingsEditor.0.0.1920.1080" x="733" y="224" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="959" y="230" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="137" y="139" />
+    <location key="new project wizard.0.0.1920.1080" x="545" y="22" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="667" y="330" />
+    <location key="#com.intellij.tools.ToolEditorDialog.0.0.1920.1080" x="96" y="149" />
+    <location key="#Inspections.0.0.1920.1080" x="592" y="182" />
+    <location key="#com.intellij.ide.util.PackageChooserDialog.0.0.1920.1080" x="690" y="290" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="538" y="163" />
+    <location key="#Tomcat_Server.0.0.1920.1080" x="737" y="397" />
+    <location key="#index.jsp.0.0.1920.1080" x="628" y="184" />
+    <location key="#Web_Browsers.0.0.1920.1080" x="738" y="344" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="765" y="221" />
+    <location key="IdeErrosDialog.0.0.1920.1080" x="561" y="315" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="679" y="307" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="597" y="66" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="1438" y="819" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="1170" y="271" />
+    <location key="Github.CreateGistDialog.0.0.1920.1080" x="1259" y="404" />
+    <location key="#Project_Structure.0.0.1920.1080" x="830" y="99" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080" x="783" y="378" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="682" y="230" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="457" y="111" />
+    <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1366.768" x="257" y="11" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1366.768" x="502" y="222" />
+    <location key="findTextDialog.0.0.1366.768" x="785" y="67" />
+    <location key="SettingsEditor.0.0.1366.768" x="163" y="0" />
+    <location key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog.0.0.1366.768" x="413" y="111" />
+    <location key="#Tomcat_Server.0.0.1366.768" x="460" y="264" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="137" y="11" />
+    <location key="new project wizard.0.0.1366.768" x="238" y="0" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" x="414" y="150" />
+    <location key="#Build_All.0.0.1920.1080" x="689" y="305" />
+    <location key="#Updates.0.0.1920.1080" x="708" y="385" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" x="210" y="262" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1898" height="330" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1898" height="330" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1898" height="330" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1898" height="330" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1042" height="702" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1898" height="330" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1898" height="330" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1898" height="330" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1898" height="330" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1872" height="268" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1872" height="268" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1872" height="268" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1872" height="268" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="412" height="203" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1344" height="165" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1344" height="165" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1344" height="165" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1344" height="165" />
+    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1322" height="164" />
+    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1322" height="164" />
+    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1322" height="164" />
+    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1322" height="164" />
+    <size key="GridCell.Tab.2.left.0.0.1366.768" width="1322" height="164" />
+    <size key="GridCell.Tab.2.center.0.0.1366.768" width="1322" height="164" />
+    <size key="GridCell.Tab.2.right.0.0.1366.768" width="1322" height="164" />
+    <size key="GridCell.Tab.2.bottom.0.0.1366.768" width="1322" height="164" />
+    <size key="NewCMakeProjectWizard.0.0.1366.768" width="500" height="200" />
+    <size key="NewCMakeProjectWizard.0.0.1920.1080" width="500" height="200" />
+  </component>
+</application>

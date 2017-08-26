@@ -1,0 +1,21 @@
+<templateSet group="UserDefine">
+  <template name="mmc" value="    /**&#10;    *$methodName$的功能描述：&#10;    *&#10;    *@params $params$&#10;    *@return $retrun$&#10;    *@author $author$&#10;    *@date $deate$&#10;    */" description="My Method Commet" toReformat="false" toShortenFQNames="true">
+    <variable name="methodName" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="false" />
+    <variable name="retrun" expression="methodReturnType()" defaultValue="" alwaysStopAt="false" />
+    <variable name="author" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="deate" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="mcc" value="/**&#10; * $className$ create by $author$ with idea&#10; * Create date: $date$ $time$&#10; */" description="My Class Commet" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <variable name="author" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,25 @@
+<templateSet group="user">
+  <template name="jcc" value="**&#10;$Package$&#10;$Class$&#10;$Description$&#10;$Author$&#10;$CreateDate$&#10;$Version$&#10;$Copyright$&#10; */" description="java class comments" toReformat="false" toShortenFQNames="true">
+    <variable name="Package" expression="" defaultValue="groovyScript(&quot;def currentPackage = \&quot;${_1}\&quot;; def result = ' * @Package : ' + currentPackage; return result;&quot;, currentPackage());" alwaysStopAt="true" />
+    <variable name="Class" expression="" defaultValue="groovyScript(&quot;def className = \&quot;${_1}\&quot;; def result = ' * @Class : ' + className; return result;&quot;, className());" alwaysStopAt="true" />
+    <variable name="Description" expression="" defaultValue="groovyScript(&quot;def result = ' * @Description : '; return result;&quot;)" alwaysStopAt="true" />
+    <variable name="Author" expression="" defaultValue="groovyScript(&quot;def author = \&quot;${_1}\&quot;; def result = ' * @Author : ' + author; return result;&quot;,user());" alwaysStopAt="true" />
+    <variable name="CreateDate" expression="" defaultValue="groovyScript(&quot;def date = \&quot;${_1}\&quot;; def time = \&quot;${_2}\&quot;; def result = ' * @CreateDate : ' + date + ' ' + time; return result;&quot;, date(&quot;yyyy-MM-dd E&quot;), time(&quot;HH:mm:ss&quot;));" alwaysStopAt="true" />
+    <variable name="Version" expression="" defaultValue="groovyScript(&quot;def result = ' * @Version : V1.0.0'; return result;&quot;);" alwaysStopAt="true" />
+    <variable name="Copyright" expression="" defaultValue="groovyScript(&quot;def owner = \&quot;${_1}\&quot;;def result = ' * @Copyright : 2017 '+owner+' Inc. All rights reserved.';&quot;,user());" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="jmc" value="**&#10;$MethodName$&#10;$Description$&#10;$Params$&#10;$ReturnType$&#10;$Author$&#10;$CreateDate$&#10; */" description="java method comments" toReformat="false" toShortenFQNames="true">
+    <variable name="MethodName" expression="" defaultValue="groovyScript(&quot;def methodName = \&quot;${_1}\&quot;; def result = ' * @Method : ' + methodName; return result;&quot;, methodName());" alwaysStopAt="true" />
+    <variable name="Description" expression="" defaultValue="groovyScript(&quot;def result = ' * @Description : '; return result;&quot;)" alwaysStopAt="true" />
+    <variable name="Params" expression="" defaultValue="groovyScript(&quot;if(\&quot;${_1}\&quot;.length() == 2) {return '';} else {def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList();for(i = 0; i &lt; params.size(); i++) {if(i&lt;(params.size()-1)){result+=' * @Param ' + params[i] + ' : ' + '\\n'}else{result+=' * @Param ' + params[i] + ' : '}}; return result;}&quot;, methodParameters());" alwaysStopAt="true" />
+    <variable name="ReturnType" expression="" defaultValue="groovyScript(&quot;def returnType = \&quot;${_1}\&quot;; def result = ' * @ReturnType : ' + returnType; return result;&quot;, methodReturnType());" alwaysStopAt="true" />
+    <variable name="Author" expression="" defaultValue="groovyScript(&quot;def author = \&quot;${_1}\&quot;; def result = ' * @Author : ' + author; return result;&quot;,user());" alwaysStopAt="true" />
+    <variable name="CreateDate" expression="" defaultValue="groovyScript(&quot;def date = \&quot;${_1}\&quot;; def time = \&quot;${_2}\&quot;; def result = ' * @CreateDate : ' + date + ' ' + time; return result;&quot;, date(&quot;yyyy-MM-dd E&quot;), time(&quot;HH:mm:ss&quot;));" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

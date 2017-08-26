@@ -1,0 +1,37 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>javax.servlet.http.</find>
+      <find>/data.html</find>
+      <find>leasenum</find>
+      <find>sendRequest</find>
+      <find>Date</find>
+      <find>to_char</find>
+      <find>“</find>
+      <find>temp</find>
+      <find>16</find>
+      <find>BinaryExpress</find>
+      <find>BinToEight</find>
+      <find>26</find>
+      <find>a</find>
+      <find>index</find>
+      <find>Nb</find>
+      <find>lb</find>
+      <find>n</find>
+      <find> </find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;</replace>
+      <replace>number</replace>
+      <replace>temp[i]</replace>
+      <replace>radix</replace>
+      <replace>HexToBin</replace>
+      <replace>BinToOct</replace>
+      <replace>4</replace>
+      <replace>array</replace>
+      <replace>count</replace>
+      <replace>B.length</replace>
+      <replace>la</replace>
+    </replaceStrings>
+  </component>
+</application>

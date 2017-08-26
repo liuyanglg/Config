@@ -1,0 +1,2 @@
+netsh wlan set hostednetwork mode=allow ssid=lyias-pc key=j00jpg809 
+netsh wlan start hostednetwork

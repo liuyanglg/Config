@@ -1,0 +1,55 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.16" value="18" />
+    <property name="installed.kotlin.plugin.version" value="1.0.5-release-IJ2016.3-1" />
+    <property name="android-component-compatibility-check" value="1491495072098" />
+    <property name="selected.color.option.type" value="CUSTOM_KEYWORD1_ATTRIBUTES" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="file.chooser.recent.files" value="D:/docu/intelliJ-java/temp01/mywebapp&#10;D:/prog/development-kit/maven/maven-repository/settings.xml&#10;D:/files/talet/branches/tale-mysql&#10;D:/prog/development-kit/maven/maven-repository/repository&#10;D:/files/ssh-learn/branchMain&#10;D:/docu/intelliJ-java/java-ee/web01/pom.xml&#10;D:/docu/intelliJ-java/java-ee/mywebapp&#10;E:/文档/JavaEE/ssh-github01/ssh-master&#10;D:/files/beauty_ssm-master&#10;D:/下载/SpringMVC-Spring-MyBatis-master&#10;D:/下载/SpringMVC-Spring-MyBatis-master/pom.xml&#10;D:/docu/intelliJ-java/java-ee2/crud&#10;D:/docu/intelliJ-java/java-ee2/CRUD&#10;D:/程序/Google/Chrome/Application/chrome.exe&#10;D:/docu/intelliJ-java/java-ee/spring/SpringMvcDemo03&#10;D:/docu/intelliJ-java/java-ee/projects/SpringMVCDemo-master&#10;D:/下载/WebClassSys-branchMain/WebClassSys&#10;D:/docu/intelliJ-java/java-ee2/mywebapp/src/main/resources&#10;E:/文档/java-web/SSH-master/pom.xml&#10;E:/文档/JavaEE/SSH-master&#10;D:/prog/development-kit/tomcat/Tomcat8.0&#10;D:/docu/intelliJ-java/java-ee2/mywebapp&#10;D:/docu/intelliJ-java/java/acm&#10;D:/docu/intelliJ-java/java/spring/spring-01&#10;D:/docu/intelliJ-java/java/book02&#10;D:/docu/intelliJ-java/java/classify/reflect&#10;D:/docu/intelliJ-java/java-ee/spring/SpringMvcDemo06&#10;D:/prog/development-kit/tomcat&#10;D:/prog/development-kit/Tomcat/Tomcat8.0&#10;D:/prog/development-kit/Tomcat" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="lastTip" value="1" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.10851872" />
+    <property name="javaee.appServer.lastUsedServer" value="Tomcat 8.0" />
+    <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="typescript.merge.auto.import" value="true" />
+    <property name="typescript.use.config.auto.import" value="false" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJSP" value="false" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="last.imported.location" value="D:/docu/intelliJ-java/java-ee/web01/pom.xml" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="sm_test_statistics_table_columnsWidth0" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder0" value="0" />
+    <property name="sm_test_statistics_table_columnsWidth1" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder1" value="1" />
+    <property name="sm_test_statistics_table_columnsWidth2" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder2" value="2" />
+    <property name="eclipse.project.dir" value="D:\下载\test_ssh" />
+    <property name="ColorChooser.RecentColors" value="45-161-148-255" />
+    <property name="SpringBeansModulesPanel[0]" value="0.10875476" />
+    <property name="KEYMAP" value="format&#10;choose&#10;fold&#10;Gen&#10;doc" />
+    <property name="SpringBeansModulesPanel[1]" value="0.12195122" />
+    <property name="SpringBeansModulesPanel[2]" value="0.13917884" />
+    <property name="SpringBeansModulesPanel[3]" value="0.16207455" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="PLUGIN_FILTER" value="Emmet.&#10;eme&#10;maven" />
+    <property name="FileTemplates.SelectedTemplate" value="hibernate.cfg.xml" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="evlsprt3.162" value="15" />
+    <property name="evlsprt3.163" value="11" />
+    <property name="search.everywhere.max.popup.width" value="720" />
+  </component>
+</application>

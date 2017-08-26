@@ -1,0 +1,5 @@
+#Command-line Options
+--prallel-threads=4
+
+# Default value: -Xmx10248m -XX:MaxPermSize=256m
+org.gradle.jvmargs=-Xmx2048m -XX:MaxPermSize=512m -XX:+HeapDumpOnOutOfMemoryError -Dfile.encoding=UTF-8

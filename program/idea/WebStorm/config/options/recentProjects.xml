@@ -1,0 +1,770 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:\files\beauty_ssm-master" />
+        <option value="D:\下载\SpringMVC-Spring-MyBatis-master" />
+        <option value="D:\下载\WebClassSys-branchMain\acm" />
+        <option value="D:\docu\intelliJ-java\java-ee2\crud" />
+        <option value="E:\文档\java-web\SSH-master" />
+        <option value="D:\docu\intelliJ-java\java-ee2\mywebapp" />
+        <option value="D:\docu\intelliJ-java\java-ee\spring\SpringMvcDemo03" />
+        <option value="D:\docu\intelliJ-java\java-ee\projects\SpringMVCDemo-master" />
+        <option value="E:\文档\JavaEE\SSH-master" />
+      </list>
+    </option>
+    <option name="additionalInfo">
+      <map>
+        <entry key="D:\Docu\IntelliJ Java\Java-web\Book01\ExamServlet">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1461223996607" />
+              <option name="buildTimestamp" value="1459180800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Docu\IntelliJ Java\Java-web\Book01\SessionServlet">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1461238520186" />
+              <option name="buildTimestamp" value="1459180800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Docu\IntelliJ Java\Java-web\Book01\StepInServlet">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1461224108134" />
+              <option name="buildTimestamp" value="1459180800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Docu\IntelliJ Java\Java-web\Book01\UseJsp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1461591961040" />
+              <option name="buildTimestamp" value="1459180800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Docu\IntelliJ Java\Java-web\SimpleDemo\HQLDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1463307408722" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Docu\IntelliJ Java\Java-web\SimpleDemo\PBikeVis system">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1462365693539" />
+              <option name="buildTimestamp" value="1459180800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Docu\IntelliJ Java\Java-web\SimpleDemo\ShoppingDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1461680304143" />
+              <option name="buildTimestamp" value="1459180800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Docu\IntelliJ Java\Java-web\SimpleDemo\SpringDemo01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1463313705300" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Docu\IntelliJ Java\Java-web\SimpleDemo\Test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1464353817916" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Docu\IntelliJ Java\Java-web\projects\BikeInfoShowByGalaxy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1464000470629" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Docu\IntelliJ Java\Java-web\projects\BikeSystem01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1464356257899" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Docu\IntelliJ Java\Java-web\projects\SpringMVCDemo-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1462277608010" />
+              <option name="buildTimestamp" value="1459180800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Docu\IntelliJ Java\Java-web\projects\Struts2Demo01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1463394111580" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Docu\IntelliJ Java\JavaWeb\ServletDemo04">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1461200769367" />
+              <option name="buildTimestamp" value="1459180800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Docu\IntelliJ Java\Java\Test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1460977927432" />
+              <option name="buildTimestamp" value="1459180800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\IntelliJ Java\Java-web\projects\BikeInfoShowByGalaxy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1464609683523" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\IntelliJ Java\Java-web\spring\Example01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1464842324421" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\IntelliJ Java\Java-web\spring\Example02">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1464884180314" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\IntelliJ Java\Java-web\spring\SpringDemo02">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1464666045687" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\IntelliJ Java\Java-web\spring\SpringMvcDemo01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1464797390450" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\IntelliJ Java\Java-web\spring\springDemo01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1464680816183" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\IntelliJ Java\Java-web\spring\springDemo03">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1464666833582" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\IntelliJ Java\Java-web\spring\test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1464935613669" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\IntelliJ Java\Java-web\spring\untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1464933833141" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\IntelliJ Java\Java-web\struts2\demo01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1464567228676" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\IntelliJ-Java\Java-web\spring\SpringMvcDemo02">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1464935300553" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\IntelliJ-Java\Java-web\spring\SpringMvcDemo03">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1465120099255" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\IntelliJ-Java\Java-web\spring\SpringMvcDemo04">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1465172511649" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-ee2\CRUD">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.7743.44" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.3\bin" />
+              <option name="projectOpenTimestamp" value="1480049657917" />
+              <option name="buildTimestamp" value="1479416472584" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-ee2\crud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.7743.44" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.3\bin" />
+              <option name="projectOpenTimestamp" value="1482244616037" />
+              <option name="buildTimestamp" value="1479416506702" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-ee2\mywebapp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.7743.44" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.3\bin" />
+              <option name="projectOpenTimestamp" value="1479964660124" />
+              <option name="buildTimestamp" value="1479416479362" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-ee\demo\HQLDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1467262164702" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-ee\hibernate\annotate">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1467719982971" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-ee\hibernate\annotate-relationship">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1467992507403" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-ee\hibernate\chapter06">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1467615151304" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-ee\hibernate\mapping01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1467615008572" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-ee\hibernate\mapping02">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1467558734485" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-ee\hibernate\untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1467561649030" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-ee\projects\SpringMVCDemo-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.7743.44" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.3\bin" />
+              <option name="projectOpenTimestamp" value="1479959087559" />
+              <option name="buildTimestamp" value="1479416515952" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-ee\spring\SpringMvcDemo03">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.7743.44" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.3\bin" />
+              <option name="projectOpenTimestamp" value="1479960091688" />
+              <option name="buildTimestamp" value="1479416484946" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-ee\spring\SpringMvcDemo06">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.1121.32" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1468765124484" />
+              <option name="buildTimestamp" value="1467993600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-ee\ssh\ssh01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.1121.32" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1468742363860" />
+              <option name="buildTimestamp" value="1467993600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-ee\ssh\untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1468308298302" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-ee\struts2\chapter05">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1467560681568" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-ee\struts2\chapter06-one-one">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1467702835088" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-ee\struts2\chapter08">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1468297079058" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-web\projects\BikeInfoShowByGalaxy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1465175445686" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-web\spring\SpringMvcDemo04">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1467032624956" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-web\spring\SpringMvcDemo05">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1465090637434" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-web\spring\SpringMvcDemo06">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1465129512212" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-web\struts2\chapter04">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1467189905812" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-web\struts2\chapter05">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1467203401916" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-web\struts2\structs2Demo01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1467189581770" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java-web\struts2\untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1467203607943" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java\MyBook">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1468118665156" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java\acm">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.7743.44" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.3\bin" />
+              <option name="projectOpenTimestamp" value="1479897586899" />
+              <option name="buildTimestamp" value="1479416500546" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java\book02">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.1121.32" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1469858838355" />
+              <option name="buildTimestamp" value="1467993600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java\classify\reflect">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.1121.32" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1468844942418" />
+              <option name="buildTimestamp" value="1467993600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java\classify\threadLoacl">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1468297143649" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java\classify\threadLocal">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1468297240916" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\docu\intelliJ-java\java\spring\spring-01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.1121.32" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1470576862878" />
+              <option name="buildTimestamp" value="1467993600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\files\beauty_ssm-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.9166.29" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.3\bin" />
+              <option name="projectOpenTimestamp" value="1482410889515" />
+              <option name="buildTimestamp" value="1481287143751" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\下载\SpringMVC-Spring-MyBatis-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.9166.29" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.3\bin" />
+              <option name="projectOpenTimestamp" value="1482410454767" />
+              <option name="buildTimestamp" value="1481287143751" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\下载\WebClassSys-branchMain\WebClassSys">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.7743.44" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.3\bin" />
+              <option name="projectOpenTimestamp" value="1479907379113" />
+              <option name="buildTimestamp" value="1479416491884" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\下载\WebClassSys-branchMain\acm">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.7743.44" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.3\bin" />
+              <option name="projectOpenTimestamp" value="1482328254889" />
+              <option name="buildTimestamp" value="1479416507121" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\下载\test_ssh">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\Installed IDE\InteliJ IDEA\IntelliJ IDEA 2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1464797605976" />
+              <option name="buildTimestamp" value="1461859200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\文档\JavaEE\SSH-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.7743.44" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.3\bin" />
+              <option name="projectOpenTimestamp" value="1479905010592" />
+              <option name="buildTimestamp" value="1479416483308" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\文档\java-web\SSH-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.7743.44" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\prog\ides\InteliJ IDEA\IntelliJ IDEA 2016.3\bin" />
+              <option name="projectOpenTimestamp" value="1480049603113" />
+              <option name="buildTimestamp" value="1479416472584" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="D:/files" />
+  </component>
+</application>

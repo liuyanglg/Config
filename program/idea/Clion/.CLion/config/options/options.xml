@@ -1,0 +1,44 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.16" value="18" />
+    <property name="installed.kotlin.plugin.version" value="1.0.1-release-IJ143-46" />
+    <property name="android-component-compatibility-check" value="1463303885607" />
+    <property name="selected.color.option.type" value="INFO_ATTRIBUTES" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="file.chooser.recent.files" value="D:/prog/development-kit/mingw&#10;D:/docu/clion/cmke&#10;D:/prog/Development Kit/mingw&#10;D:/docu/clion/book/4-01&#10;D:/file/no01.cpp&#10;D:/prog/development-kit/MinGW&#10;D:/prog/development-kit/mingw2&#10;D:/docu/clion/MyFirst&#10;D:/docu/clion/test&#10;D:/Docu/IntelliJ Java/MyBook/ThinkInJava&#10;D:/Prog/Development Kit/Java JDK/JDK 1.8&#10;D:/Docu/IntelliJ Java/Java-web/projects/BikeInfoShowByGalaxy&#10;D:/Prog/Development Kit/Java JDK/JDK 1.7&#10;D:/Docu/IntelliJ Java/Java-web/SimpleDemo/PBikeVis system/.classpath&#10;D:/Docu/IntelliJ Java/Java-web/SimpleDemo/PBikeVis system/.project&#10;D:/Docu/IntelliJ Java/Java-web/projects/SpringMVCDemo-master/pom.xml&#10;D:/Docu/IntelliJ Java/Java-web/SimpleDemo/PBikeVis system&#10;D:/Docu/IntelliJ Java/Java-web/SimpleDemo/ShoppingDemo&#10;D:/Docu/IntelliJ Java/Java-web/Book01/UseJsp/web/WEB-INF/classes&#10;D:/Docu/IntelliJ Java/Java-web/Book01/UseJsp/web/WEB-INF&#10;D:/Docu/IntelliJ Java/Java-web/Book01/UseJsp&#10;D:/Docu/IntelliJ Java/Java-web/Book01/SessionServlet&#10;D:/Docu/IntelliJ Java/Java-web/Book01/StepInServlet&#10;D:/Docu/IntelliJ Java/Java-web/Book01/ExamServlet&#10;D:/Prog/Development Kit/Tomcat/Tomcat8.0&#10;D:/Docu/IntelliJ Java/JavaWeb/ServletDemo04&#10;D:/下载/cmder_mini1.1.4.1/cmder_mini/Cmd.exe&#10;D:/Docu/IntelliJ Java/Java/Test" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="lastTip" value="1" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="false" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.10851872" />
+    <property name="javaee.appServer.lastUsedServer" value="Tomcat 8.0.32" />
+    <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="typescript.merge.auto.import" value="true" />
+    <property name="typescript.use.config.auto.import" value="false" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJSP" value="false" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="last.imported.location" value="D:/Docu/IntelliJ Java/Java-web/SimpleDemo/PBikeVis system/.project" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="sm_test_statistics_table_columnsWidth0" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder0" value="0" />
+    <property name="sm_test_statistics_table_columnsWidth1" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder1" value="1" />
+    <property name="sm_test_statistics_table_columnsWidth2" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder2" value="2" />
+    <property name="eclipse.project.dir" value="D:\Docu\IntelliJ Java\Java-web\SimpleDemo\PBikeVis system" />
+    <property name="evlsprt3.162" value="12" />
+    <property name="evlsprt3.163" value="12" />
+    <property name="evlsprt3.171" value="12" />
+  </component>
+</application>
